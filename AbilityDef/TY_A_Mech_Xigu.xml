@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Overclocking_armor.label>Штурмовая перегрузка</TY_A_Overclocking_armor.label>
+  <TY_A_Overclocking_armor.description>Перегружает систему наномашин для резкого увеличения производительности и восстановления повреждённых структур.</TY_A_Overclocking_armor.description>
+
+  <TY_Flashstorm.label>Выстрел плазменной миной</TY_Flashstorm.label>
+  <TY_Flashstorm.description>Выстреливает специальной плазменной миной, которая наносит урон, одновременно генерируя региональную грозу, которая бьёт молниями в течение некоторого времени, а затем рассеивается.</TY_Flashstorm.description>
+
+
+  <!-- 尖针无人机 -->
+
+  <TY_A_Launch_nano_flying_knives.label>Запуск нано-эрозионных летающих ножей</TY_A_Launch_nano_flying_knives.label>
+  <TY_A_Launch_nano_flying_knives.description>Запуск нано-эрозионных летающих ножей</TY_A_Launch_nano_flying_knives.description>
+
+
+  <!-- 恐怖机器人 -->
+
+  <TY_A_MechDriveSjump.label>Прыжок</TY_A_MechDriveSjump.label>
+  <TY_A_MechDriveSjump.description>Путем манипуляции наномашинами для усиления мышц ног, чтобы обеспечить дальний прыжок.</TY_A_MechDriveSjump.description>
+  <TY_A_MechDriveSjump.verbProperties.label>прыжок</TY_A_MechDriveSjump.verbProperties.label>
+
+  <TY_A_Launch_Nano_erosion_jet.label>Запуск нано-эрозионной струи</TY_A_Launch_Nano_erosion_jet.label>
+  <TY_A_Launch_Nano_erosion_jet.description>Запуск нано-эрозионной струи</TY_A_Launch_Nano_erosion_jet.description>
+
+
+</LanguageData>

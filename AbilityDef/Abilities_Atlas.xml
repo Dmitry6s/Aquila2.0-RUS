@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_BulletShield.label>Крупный щит</TY_BulletShield.label>
+  <TY_BulletShield.description>Выпускает нано‑пыль в воздух, формируя крупный щит против дальних атак.\nЦена: нано‑пыль также блокирует огонь наружу.\nМассивный щит перегревает систему — требуется 14 часов на охлаждение.</TY_BulletShield.description>
+
+  <TY_A_Overloaded_exercise_of_the_heart.label>Перегрузка сердца</TY_A_Overloaded_exercise_of_the_heart.label>
+  <TY_A_Overloaded_exercise_of_the_heart.description>Скорость кровотечения во время активации увеличивается на 200% в обмен на повышение сознания, движения и манипуляции.</TY_A_Overloaded_exercise_of_the_heart.description>
+
+  <DriveSjump.label>Прыжок</DriveSjump.label>
+  <DriveSjump.description>Прыжок вверх после концентрации силы и энергии в ногах.</DriveSjump.description>
+  <DriveSjump.verbProperties.label>Прыжок</DriveSjump.verbProperties.label>
+
+  <TY_A_IncineratorBurner.label>Выброс пламени</TY_A_IncineratorBurner.label>
+  <TY_A_IncineratorBurner.description>Выброс смешанного топлива</TY_A_IncineratorBurner.description>
+
+  <TY_Treatment_of_foam.label>Лечебная пена</TY_Treatment_of_foam.label>
+  <TY_Treatment_of_foam.description>Путем манипуляции наномашинами для закупорки раны и высвобождения лечебных химических веществ для достижения быстрой перевязки.</TY_Treatment_of_foam.description>
+
+  <TY_B_hemostasis_A_A.label>Остановка кровотечения</TY_B_hemostasis_A_A.label>
+  <TY_B_hemostasis_A_A.description>Путем манипуляции наномашинами для быстрой закупорки раны с целью остановки кровотечения, но всё ещё существует риск заражения.</TY_B_hemostasis_A_A.description>
+
+  <TY_B_relievepain_A_A.label>Снятие боли</TY_B_relievepain_A_A.label>
+  <TY_B_relievepain_A_A.description>Путем манипуляции наномашинами для высвобождения специальных химических сигналов для блокировки передачи боли, но будьте предупреждены: это не залечит рану.</TY_B_relievepain_A_A.description>
+
+  <TY_BerserkPulse.label>Берсерк-импульс</TY_BerserkPulse.label>
+  <TY_BerserkPulse.description>Путем манипуляции наномашинами для высвобождения специальных сигналов для нарушения нервной системы врагов, заставляя их впадать в берсерк на короткий период времени.</TY_BerserkPulse.description>
+
+  <TY_C_Stun_A.label>Оглушение</TY_C_Stun_A.label>
+  <TY_C_Stun_A.description>Путем манипуляции наномашинами для высвобождения специальных сигналов для нарушения нервной системы врагов, заставляя их оглушаться и застаиваться.</TY_C_Stun_A.description>
+
+  <TY_Invisibility.label>Невидимость</TY_Invisibility.label>
+  <TY_Invisibility.description>Путем манипуляции наномашинами для прикрепления к поверхности тела и изменения природы наномашин для достижения эффекта оптического камуфляжа.</TY_Invisibility.description>
+
+  <TY_A_C_Sian_Weinstein_A.label>Сандевистан</TY_A_C_Sian_Weinstein_A.label>
+  <TY_A_C_Sian_Weinstein_A.description>Путем манипуляции наномашинами для отправки сигналов ускорения в нервную систему, тела Водителей переводятся в состояние перегрузки полного ускорения. Движение настолько быстрое, что может оставить только остаточную тень в глазах обычных людей.</TY_A_C_Sian_Weinstein_A.description>
+
+  <TY_A_C_Bully_chip_A.label>Момент неуязвимости</TY_A_C_Bully_chip_A.label>
+  <TY_A_C_Bully_chip_A.description>Активирует все наномашины внутри тела. Позволяет наномашинам быть активными и постоянно защищать Водителя от урона, ремонтировать тело и ускорять функционирование тела, чтобы достичь короткого периода времени для получения сверхчеловеческого тела и тела нежити!</TY_A_C_Bully_chip_A.description>
+
+
+  <!-- <soundCast>PsycastCastLoop</soundCast> 施法时会播放 
+      <targetParams>
+        <canTargetSelf>True</canTargetSelf>
+        <canTargetAnimals>False</canTargetAnimals>
+      </targetParams>
+    </verbProperties>
+    <comps>
+	     <li Class="TY_Mora_Gene.CompProperties_AbilityLifeForceCost">
+           <fuelCost>0.10</fuelCost>
+         </li>
+      <li Class = "CompProperties_AbilityGiveHediff">
+        <compClass>CompAbilityEffect_GiveHediff</compClass>
+        <hediffDef>PsychicInvisibility</hediffDef>
+        <psychic>True</psychic>
+      </li>
+      <li Class="CompProperties_AbilityFleckOnTarget">
+        <fleckDef>PsycastPsychicEffect</fleckDef>
+      </li>
+    </comps>
+    
+  </AbilityDef> -->
+
+  <TY_Wallraise.label>Поднять стену</TY_Wallraise.label>
+  <TY_Wallraise.description>Путем манипуляции быстро расширяющимися наномашинами для формирования затвердевшей пены, чтобы действовать как бункер.</TY_Wallraise.description>
+
+  <TY_BulletShield.label>Выпустить большой щит из компонентов наномашин</TY_BulletShield.label>
+  <TY_BulletShield.description>Путем манипуляции наномашинами для высвобождения нанопыли в воздухе для формирования большого щита, блокирующего снаряды от низкого до высокого угла. Но за соответствующую цену нанопыль также будет блокировать дальнобойные атаки, выпущенные по врагу изнутри наружу.\nВыпуск большого щита из компонентов наномашин вызывает перегрузку и перегрев чипа, поэтому требуется 14 часов для охлаждения.</TY_BulletShield.description>
+
+  <TY_D_moderate_A_A.label>Замедление</TY_D_moderate_A_A.label>
+  <TY_D_moderate_A_A.description>Путем манипуляции наномашинами для излучения специальных сигналов, это замедляет проведение человеческого нервного центра, что приводит к замедлению скорости движения.</TY_D_moderate_A_A.description>
+
+  <TY_Resurrected_Nanomechanical_Devices.label>Воскрешающие наномашины</TY_Resurrected_Nanomechanical_Devices.label>
+  <TY_Resurrected_Nanomechanical_Devices.description>Воскрешающие наномашины</TY_Resurrected_Nanomechanical_Devices.description>
+
+
+  <!-- <AbilityDef ParentName="RoleAuraBuffBase">
+        <defName>TY_D_moderate_A_A</defName>
+        <label>减速</label>
+        <description>通过纳米机械发射特殊的信号，让人的神经中枢传导速度减缓，致使移动速度的减慢。</description>
+        <iconPath>UI/TY_no/DriveSEMP</iconPath>
+        <cooldownTicksRange>24000</cooldownTicksRange> 
+        <groupDef></groupDef>
+        <warmupMoteSocialSymbol>UI/TY_no/DriveSEMP</warmupMoteSocialSymbol>
+        <statBases>
+          <Ability_Duration>210</Ability_Duration>
+          <Ability_EffectRadius>0</Ability_EffectRadius>
+        </statBases>
+        <verbProperties>
+		<verbClass>Verb_CastAbility</verbClass> 施法类动作
+         <range>0</range>
+        </verbProperties>
+        <comps>
+		 <li Class="TY_Mora_Gene.CompProperties_AbilityLifeForceCost">
+           <fuelCost>0.30</fuelCost>
+         </li>
+          <li Class="CompProperties_AbilityGiveHediff">
+            <compClass>CompAbilityEffect_GiveHediff</compClass>
+            <hediffDef>TY_D_moderate_AA</hediffDef>
+            <onlyApplyToSelf>True</onlyApplyToSelf>
+            <replaceExisting>true</replaceExisting>
+          </li>
+        </comps>
+      </AbilityDef> -->
+
+  <TY_A_Launch_nano_erosion_bullets.label>Запуск нано-эрозионных пуль</TY_A_Launch_nano_erosion_bullets.label>
+  <TY_A_Launch_nano_erosion_bullets.description>Запуск нано-эрозионных пуль</TY_A_Launch_nano_erosion_bullets.description>
+
+
+  <!-- Bases -->
+
+  <TY_Test.label>Тест</TY_Test.label>
+  <TY_Test.description>Тест.</TY_Test.description>
+
+
+  <!-- EN: 长跳 -->
+  <!-- EN: 将力量与能量集中到腿部后一跃而起. -->
+  <!-- EN: jump -->
+
+</LanguageData>

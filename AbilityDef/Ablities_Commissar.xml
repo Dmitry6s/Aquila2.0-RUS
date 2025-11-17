@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 冷静下来 -->
+  <TYCommand_CalmDown.label>Успокоиться</TYCommand_CalmDown.label>
+  <!-- EN: 我们一定会坚持下去的！ -->
+  <TYCommand_CalmDown.description>Мы обязательно продержимся!</TYCommand_CalmDown.description>
+
+  <!-- EN: 强制阻止 -->
+  <TYCommand_ForceBlock.label>Принудительное сдерживание</TYCommand_ForceBlock.label>
+  <!-- EN: 面对同伴所做出来的危险状况，只能强制进行阻止。 -->
+  <TYCommand_ForceBlock.description>Единственный способ остановить надвигающуюся опасную ситуацию — принудительно сдержать этого товарища от этого.</TYCommand_ForceBlock.description>
+  <!-- EN: {INITIATOR_labelShort} 成功强制阻止了 {RECIPIENT_labelShort}。 -->
+  <TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>{INITIATOR_labelShort} успешно принудительно сдержал {RECIPIENT_labelShort}.</TYCommand_ForceBlock.comps.CompAbilityEffect_ForceBlock.message>
+
+  <!-- EN: 弹性防御 -->
+  <TYCommand_HoldTheLine.label>Эластичная оборона</TYCommand_HoldTheLine.label>
+  <!-- EN: 团结才能存活！\n\n我们全部都得活下来！ -->
+  <TYCommand_HoldTheLine.description>Только объединившись, мы выживем!\n\nВсе мы должны пережить это!</TYCommand_HoldTheLine.description>
+
+  <!-- EN: 解放号声 -->
+  <TYCommand_LiberationCall.label>Призыв к освобождению</TYCommand_LiberationCall.label>
+  <!-- EN: 发现敌人下达战斗命令！ -->
+  <TYCommand_LiberationCall.description>Враг обнаружен! Займите боевые позиции!</TYCommand_LiberationCall.description>
+
+  <!-- EN: 缓解压力 -->
+  <TYCommand_RelieveStress.label>Снятие стресса</TYCommand_RelieveStress.label>
+  <!-- EN: 让陷入迷茫与困苦的同伴重新恢复精神，但是承受苦水的人肯定也会被影响。 -->
+  <TYCommand_RelieveStress.description>Восстанавливает дух товарища, который был потерян в замешательстве и бедствии. Однако тот, кто снимает стресс и несёт горькие воды, определённо также будет затронут.</TYCommand_RelieveStress.description>
+  <!-- EN: {INITIATOR_labelShort} 没能成功让 {RECIPIENT_labelShort} 冷静下来。 -->
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.failMessage>{INITIATOR_labelShort} не смог снять стресс {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.failMessage>
+  <!-- EN: {INITIATOR_labelShort} 成功让 {RECIPIENT_labelShort} 冷静下来。 -->
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.successMeaasge>{INITIATOR_labelShort} успешно снял стресс {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.successMeaasge>
+  <!-- EN: {INITIATOR_labelShort} 成功让 {RECIPIENT_labelShort} 冷静下来，并让 {RECIPIENT_labelShort} 重新振作。 -->
+  <TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.triumphMessage>{INITIATOR_labelShort} успешно снял стресс {RECIPIENT_labelShort} и восстановил {RECIPIENT_labelShort}.</TYCommand_RelieveStress.comps.CompAbilityEffect_RelieveStress.triumphMessage>
+
+</LanguageData>

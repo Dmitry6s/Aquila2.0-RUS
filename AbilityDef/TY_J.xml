@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExplosiveDash.label>Взрывной рывок</ExplosiveDash.label>
+  <ExplosiveDash.description>Путем манипуляции наномашинами для усиления мышц ног для выполнения короткого быстрого рывка, который создаёт взрыв и оглушает врагов на пути рывка.</ExplosiveDash.description>
+  <ExplosiveDash.verbProperties.label>Взрывной рывок</ExplosiveDash.verbProperties.label>
+
+
+  <!-- AbilityDef定义 -->
+
+  <SemicircleSlash.label>Полукруговой удар</SemicircleSlash.label>
+  <SemicircleSlash.description>Размахивает оружием широким полукруговым ударом, нанося урон всем врагам в полукруговом секторе перед инициатором. Диапазон атаки увеличивается с уровнем навыка оружия.</SemicircleSlash.description>
+  <SemicircleSlash.verbProperties.label>Полукруговой удар</SemicircleSlash.verbProperties.label>
+
+  <DriveDash.label>Рывок</DriveDash.label>
+  <DriveDash.description>Путем манипуляции наномашинами для усиления мышц ног для выполнения короткого быстрого рывка, чтобы быстро приблизиться к врагам или выйти из опасной ситуации. Короткий период неуязвимости активируется во время рывка.</DriveDash.description>
+  <DriveDash.verbProperties.label>Рывок</DriveDash.verbProperties.label>
+
+
+  <!-- 机械蠕虫钻地技能AbilityDef定义 -->
+
+  <DriveWormBurrow.label>Зарывание мехчервя</DriveWormBurrow.label>
+  <DriveWormBurrow.description>Мехчервь активирует режим зарывания и после короткого чтения полосы прогресса зарывается в землю, быстро перемещаясь под землёй к целевой локации перед тем, как вырваться из земли. Полностью невидим и неуязвим для атак во время зарывания, это чрезвычайно эффективный тактический манёвренный навык.</DriveWormBurrow.description>
+  <DriveWormBurrow.verbProperties.label>Зарывание мехчервя</DriveWormBurrow.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes_ShengChan/Recipes_Mech_Xigu.xml -->
+  <Make_Mech_A_XwSnake.label>Вырастить «Гремучник»-94</Make_Mech_A_XwSnake.label>
+  <Make_Mech_A_XwSnake.description>«Гремучник»-94 — тяжёлый беспилотный мех.</Make_Mech_A_XwSnake.description>
+
+  <Make_Mech_A_ChengBao_C.label>Вырастить «Прорыв»-1</Make_Mech_A_ChengBao_C.label>
+  <Make_Mech_A_ChengBao_C.description>«Прорыв»-1 — ближний тяжёлый мех.</Make_Mech_A_ChengBao_C.description>
+
+  <Make_Mech_A_ChengBao.label>Вырастить «Подвижную крепость»-96</Make_Mech_A_ChengBao.label>
+  <Make_Mech_A_ChengBao.description>«Подвижная крепость»-96 — мех‑щит от EMP.</Make_Mech_A_ChengBao.description>
+
+  <Make_Mech_A_Diabolus.label>Вырастить «Выгар»-3</Make_Mech_A_Diabolus.label>
+  <Make_Mech_A_Diabolus.description>«Выгар»-3 — тяжёлый арт‑мех.</Make_Mech_A_Diabolus.description>
+
+  <Make_Mech_A_battle_fortress.label>Вырастить «Матка»-9</Make_Mech_A_battle_fortress.label>
+  <Make_Mech_A_battle_fortress.description>«Матка»-9 — наземный авианосец дронов.</Make_Mech_A_battle_fortress.description>
+
+</LanguageData>
+
+

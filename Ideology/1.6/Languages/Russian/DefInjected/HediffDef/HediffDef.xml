@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_CombatCommand.label>Боевая команда</TY_CombatCommand.label>
+  <TY_CombatCommand.description>Поощряя и командуя союзниками поблизости, этот человек может усилить их концентрацию в бою и, таким образом, их боевую эффективность.</TY_CombatCommand.description>
+
+  <TY_CombatCommandBuff.label>Боевая команда</TY_CombatCommandBuff.label>
+  <TY_CombatCommandBuff.description>Боевые способности усилены в результате нахождения рядом с кем-то, кто использует способность боевой команды.</TY_CombatCommandBuff.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 要求攻击指定地点据点 -->
+
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>Квест истёк:</TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>Лагерь бандитов собрался и ушёл. Квест истёк.</TY_A_OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.text>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>Квест провален: </TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>После обнаружения лагерь бандитов рассеялся. Квест завершён.</TY_A_OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.text>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>Выбор награды</TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
+  <TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>Эти колонисты участвовали в победе за квест и хотят знать, кто должен получить награду за эту службу.</TY_A_OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
+  <TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
+      questDescription-&gt;
+    </TY_A_OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings.0>
+  <TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>questName-&gt;</TY_A_OpportunitySite_BanditCamp.questNameRules.rulesStrings.0>
+
+
+</LanguageData>

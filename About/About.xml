@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[TY2.0]溪谷联邦 Aquila2.0-Valley - Русификатор</name>
+	<author>Dmitry6</author>
+	<packageId>Dmitry6.TYll.Valley</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>TYll.valley</packageId>
+			<displayName>[TY2.0]溪谷联邦 Aquila2.0-Valley</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3280990469</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>TYll.valley</li>
+	</loadAfter>
+	<description>Русификатор для мода [TY2.0]溪谷联邦 Aquila2.0-Valley
+
+Перевод текстов мода на русский язык.
+
+</description>
+</ModMetaData>
+

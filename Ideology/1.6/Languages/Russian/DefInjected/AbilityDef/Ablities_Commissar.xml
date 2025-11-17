@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TYCommand_HoldTheLine.label>Эластичная оборона</TYCommand_HoldTheLine.label>
+  <TYCommand_HoldTheLine.description>В единстве мы выживем!\n\nВсе мы должны выжить!</TYCommand_HoldTheLine.description>
+
+  <TYCommand_LiberationCall.label>Призыв к освобождению</TYCommand_LiberationCall.label>
+  <TYCommand_LiberationCall.description>Враг обнаружен! Займите боевые позиции!</TYCommand_LiberationCall.description>
+
+  <TYCommand_CalmDown.label>Успокоиться</TYCommand_CalmDown.label>
+  <TYCommand_CalmDown.description>Мы справимся с этим!</TYCommand_CalmDown.description>
+
+  <TYCommand_RelieveStress.label>Снять стресс</TYCommand_RelieveStress.label>
+  <TYCommand_RelieveStress.description>Вернуть дух товарища, который потерялся в замешательстве и бедствии. Однако тот, кто снимает стресс, принимая на себя горькие воды, несомненно, также будет затронут.</TYCommand_RelieveStress.description>
+
+  <TYCommand_ForceBlock.label>Принудительно удержать</TYCommand_ForceBlock.label>
+  <TYCommand_ForceBlock.description>Единственный способ остановить надвигающуюся опасную ситуацию - это принудительно удержать того товарища от таких действий.</TYCommand_ForceBlock.description>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_CombatCommand.label>Боевая команда</TY_CombatCommand.label>
+  <TY_CombatCommand.description>Активирует поле, которое усиливает боевые навыки всех поблизости. Эффект длится 24 часа и остаётся привязанным к инициатору на всё время действия.</TY_CombatCommand.description>
+
+
+</LanguageData>

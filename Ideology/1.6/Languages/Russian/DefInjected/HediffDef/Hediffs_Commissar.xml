@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TYHediff_HoldTheLine.label>Эластичная оборона</TYHediff_HoldTheLine.label>
+  <TYHediff_HoldTheLine.description>Все мы должны выжить!\n\nУвеличение защиты и скорости передвижения, подходит для обхода или твёрдой обороны.</TYHediff_HoldTheLine.description>
+
+  <TYHediff_HoldTheLine_Buff.label>Эластичная оборона</TYHediff_HoldTheLine_Buff.label>
+  <TYHediff_HoldTheLine_Buff.description>Все мы должны выжить!\n\nУвеличение защиты и скорости передвижения, подходит для обхода или твёрдой обороны.</TYHediff_HoldTheLine_Buff.description>
+
+  <TYHediff_LiberationCall.label>Призыв к освобождению!</TYHediff_LiberationCall.label>
+  <TYHediff_LiberationCall.description>Враг обнаружен! Займите боевые позиции!\n\nУлучшает точность и сокращает время прицеливания, быстрая перезарядка, но меньше времени, подходит для партизанской войны.</TYHediff_LiberationCall.description>
+
+  <TYHediff_LiberationCall_Buff.label>Призыв к освобождению!</TYHediff_LiberationCall_Buff.label>
+  <TYHediff_LiberationCall_Buff.description>Враг обнаружен! Займите боевые позиции!\n\nУлучшает точность и сокращает время прицеливания, быстрая перезарядка, но меньше времени, подходит для партизанской войны.</TYHediff_LiberationCall_Buff.description>
+
+  <TYHeiff_CalmDown.label>Успокоиться!</TYHeiff_CalmDown.label>
+  <TYHeiff_CalmDown.description>Мы справимся с этим!\n\nСнижает порог психического срыва.</TYHeiff_CalmDown.description>
+
+  <TYHeiff_CalmDown_Buff.label>Успокоиться!</TYHeiff_CalmDown_Buff.label>
+  <TYHeiff_CalmDown_Buff.description>Мы справимся с этим!\n\nСнижает порог психического срыва.</TYHeiff_CalmDown_Buff.description>
+
+  <TYHediff_ForcedDown.label>Принудительно удержан</TYHediff_ForcedDown.label>
+  <TYHediff_ForcedDown.description>Единственный способ остановить надвигающуюся опасную ситуацию - это принудительно удержать того товарища от таких действий.</TYHediff_ForcedDown.description>
+
+
+</LanguageData>

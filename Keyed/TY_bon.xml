@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <TY_A_Red_Army_Communication_Station_Start_Dialogue_Box>Связной офис революционной помощи "Коминтерзвёздный"</TY_A_Red_Army_Communication_Station_Start_Dialogue_Box>
+    <TY_A_Your_faction_is_hostile_to_the_Red_Army>Ваша фракция враждебна к {0}.</TY_A_Your_faction_is_hostile_to_the_Red_Army>
+    <TY_A_Create_Red_Army_main_menu_ode>"Переключаю вас на революционный контактный канал."\nПосле секунды-двух шума в ваши уши входит новый голос.\n"Приветствие, товарищ! Добро пожаловать на контактный канал "Коминтерзвёздный". (˶>w•)✧"\n"Коминтерзвёздный посвящён помощи и поддержке каждой прогрессивной дружественной фракции и партнёру.（˶˃ w &lt;˶)"\n"Вы можете получать миссии для решения проблем и трудностей различных коммун. Накопите билеты репутации, создайте дружбу через честь и кровопролитие, чтобы получить больше технологий, помощи и сотрудничества( ୧〃•̀w•〃).\n"Чем мы можем вам помочь? ₍^˶ ╸o  ╸˵^₎"\n\nТекущие билеты репутации: {0}</TY_A_Create_Red_Army_main_menu_ode>
+    <TY_A_Red_Army_Military_Assistance>Запросить военное подкрепление</TY_A_Red_Army_Military_Assistance>
+    <TY_A_Red_Army_Military_Assistance_q>Текущие билеты репутации: {0}\n\n\n"Для вас устанавливается срочная связь с вооружёнными силами Красного сектора и Красной гвардией в окрестностях. Товарищ, пожалуйста, выберите военное подкрепление, которое вам нужно."\n\n</TY_A_Red_Army_Military_Assistance_q>
+    <TY_A_Red_Army_Military_Assistance_q_Q>Команда - 250 билетов репутации</TY_A_Red_Army_Military_Assistance_q_Q>
+    <TY_A_Red_Army_Military_Assistance_q_W>Отряд - 600 билетов репутации</TY_A_Red_Army_Military_Assistance_q_W>
+    <TY_A_Red_Army_Military_Assistance_q_E>Взвод - 1200 билетов репутации</TY_A_Red_Army_Military_Assistance_q_E>
+    <TY_A_Red_Army_Military_Assistance_w>Военное подкрепление готово к развёртыванию! ੭ ᐕ)੭</TY_A_Red_Army_Military_Assistance_w>
+    <TY_A_Red_Army_Military_Assistance_w_NO>Следующий запрос на развёртывание военного подкрепления будет готов через {0} дней.</TY_A_Red_Army_Military_Assistance_w_NO>
+    <TY_A_Red_Army_Military_Assistance_w_q>Военное подкрепление было развёрнуто! / ᐕ)/</TY_A_Red_Army_Military_Assistance_w_q>
+    <TY_A_Request_item_options>Запросить материальную помощь</TY_A_Request_item_options>
+    <TY_A_Request_item_options_q>Текущие билеты репутации: {0}\n\n\n"Товарищ, наша материальная помощь Коминтерзвёздного покрывает всё под солнцем ψ(｀∇´)ψ! Вы можете выбрать из, но не ограничиваясь: оружие, медицинские принадлежности, бионику, Архотех, сырьё и все виды помощи o(￣▽￣)d. Пожалуйста, выберите необходимые вам материалы помощи."{1}\n\n</TY_A_Request_item_options_q>
+    <TY_A_Request_item_options_W>       Запрос {0} потребует: {1} билетов репутации.</TY_A_Request_item_options_W>
+    <TY_A_Request_item_options_E>Помощь прибыла</TY_A_Request_item_options_E>
+    <TY_A_Request_item_options_E_Q>Следующие предметы помощи пополнятся через {0} дней\n</TY_A_Request_item_options_E_Q>
+    <TY_A_Request_item_options_R>Предметы, заказанные у {0}, прибыли!</TY_A_Request_item_options_R>
+    <TY_A_Browse_available_items>Высокотехнологичные предметы помощи</TY_A_Browse_available_items>
+    <TY_A_Available_items>Текущие билеты репутации: {0}\n\n\n"Товарищ, программа высокотехнологичной помощи имеет обширное разнообразие предметов. Если вы не можете найти то, что вам нужно, попробуйте другие более подробные опции.(´ω｀)ゞ"\n\n</TY_A_Available_items>
+    <TY_A_Item_market_cooldown>Отключено, если нет запасов</TY_A_Item_market_cooldown>
+    <TY_A_Recruitment_Structure_Options>Размещение технических специалистов Перекованных</TY_A_Recruitment_Structure_Options>
+    <TY_A_Recruitment_Structure>Текущие билеты репутации: {0}\n\n"Связываюсь с добровольцами Перекованных, готовыми поддержать вас немедленно для товарища ［( ̳• v • ̳)7"\n\n</TY_A_Recruitment_Structure>
+    <TY_A_Spending_federal_currency_to_select_personality_recruitmen_constructs>Потратить {0} билетов репутации для найма Перекованных путём выбора черт.</TY_A_Spending_federal_currency_to_select_personality_recruitmen_constructs>
+    <TY_A_Red_Select_Features>Выберите требуемую черту:</TY_A_Red_Select_Features>
+    <TY_A_No_desired_features>Черта не требуется</TY_A_No_desired_features>
+    <TY_A_Skills_for_selecting_constructs>Выберите требуемый навык Перекованного:</TY_A_Skills_for_selecting_constructs>
+    <TY_A_Skills_for_selecting_constructs_NO>Навык Перекованного не требуется</TY_A_Skills_for_selecting_constructs_NO>
+    <TY_A_Not_enough_federal_currency>Недостаточно билетов репутации</TY_A_Not_enough_federal_currency>
+    <TY_A_There_are_no_structures_available_for_recruitment>Нет Перекованных, доступных для найма</TY_A_There_are_no_structures_available_for_recruitment>
+    <TY_A_There_are_Y_structures_available_for_recruitment>Перекованные доступны для найма</TY_A_There_are_Y_structures_available_for_recruitment>
+    <TY_A_The_next_construct_is_recruited_after_Tianke>Следующий Перекованный будет доступен для найма через {0} день(дней).</TY_A_The_next_construct_is_recruited_after_Tianke>
+    <TY_A_GetRequest_task_options>Опции запроса заданий (В разработке)</TY_A_GetRequest_task_options>
+    <TY_A_Purchase_federal_currency_with_silver>Запросить помощь серебром</TY_A_Purchase_federal_currency_with_silver>
+    <TY_A_Display_information_on_exchanging_silver_for_rewards>Текущие билеты репутации: {0}\nТекущее количество серебра: {1}\n\n\n"Хорошо, товарищ, я немедленно свяжусь с казначейством. Пожалуйста, укажите количество серебра, которое вам требуется. 丿(•u•  )丿"</TY_A_Display_information_on_exchanging_silver_for_rewards>
+    <TY_A_Display_the_exchange_of_silver_for_federal_currency>Обменять {0} серебра на {1} билетов репутации</TY_A_Display_the_exchange_of_silver_for_federal_currency>
+    <TY_A_There_is_not_enough_silver_displayed>Недостаточно билетов репутации</TY_A_There_is_not_enough_silver_displayed>    
+    <TY_A_Return_to_the_root_node>Вернуться домой</TY_A_Return_to_the_root_node>
+    <TY_A_Purchase_federal_currency_with_silver_A>Архивы заслуг за билеты репутации</TY_A_Purchase_federal_currency_with_silver_A>
+    <TY_A_Choose_items_to_exchange_for_federal_currency>"Хорошо, товарищ, я подготовил документы и архивы, готов записать ваши заслуги и достижения в любое время! Пожалуйста, выберите соответствующие документы и архивы. m(˶ • ᴗ • ˶)m"\n\n{0} билетов репутации</TY_A_Choose_items_to_exchange_for_federal_currency>
+    <TY_A_Exchange_item_for_currency>Обменять {0} (Получить {1} билетов репутации за каждый)</TY_A_Exchange_item_for_currency>
+    <TY_A_Return_to_the_root_node>Вернуться в главное меню</TY_A_Return_to_the_root_node>
+    <TY_A_Exchange_details>Детали обмена:\n\nПредмет: {0}\nВ настоящее время доступно: {1}\nКоэффициент обмена: {2} билетов репутации за каждый\nМинимальное количество для обмена: {3}\nЗа один обмен: Получить {4} билетов репутации</TY_A_Exchange_details>
+    <TY_A_Exchange_once>Обменять {0} {1} (Получить {2} билетов репутации)</TY_A_Exchange_once>
+    <TY_A_Exchange_ten_times>Обменять {0} {1} (Получить {2} билетов репутации)</TY_A_Exchange_ten_times>
+    <TY_A_Exchange_all>Обменять все {0} {1} (Получить {2} билетов репутации)</TY_A_Exchange_all>
+    <TY_A_Back_to_item_list>Вернуться к списку предметов</TY_A_Back_to_item_list>
+    <TY_A_Not_enough_items>Недостаточно {0}</TY_A_Not_enough_items>
+    <TY_A_No_items_to_exchange>Нет предметов, доступных для обмена</TY_A_No_items_to_exchange>
+    <TY_A_Exchange_successful>Успешно обменено {0} {1}. Получено {2} билетов репутации. Общее текущее количество билетов репутации: {3}</TY_A_Exchange_successful>
+    <TY_A_Prisoner_Bounty_Request>Заключённый для архива заслуг</TY_A_Prisoner_Bounty_Request>
+    <TY_A_Select_Prisoner>"Понял, товарищ. Мы отправляем соответствующий отдел для сопровождения заключённых. Пожалуйста, выберите заключённых, требующих транспортировки. [( ̳• 、• ̳)7"\n\nВыбрать заключённого: {0}, Категория: {1}, Фракция: {2}, Награда: {3}</TY_A_Select_Prisoner>
+    <TY_A_No_Faction>Нет фракции</TY_A_No_Faction>
+    <TY_A_Selected_Prisoners>Выбранные заключённые</TY_A_Selected_Prisoners>
+    <TY_A_Total_Bounty_Value>Общая стоимость награды</TY_A_Total_Bounty_Value>
+    <TY_A_Confirm_Prisoner_Selection>Подтвердить</TY_A_Confirm_Prisoner_Selection>
+    <TY_A_No_Prisoners_Selected>Заключённые не выбраны</TY_A_No_Prisoners_Selected>
+    <TY_A_Cancel>Отмена</TY_A_Cancel>
+    <TY_A_No_Prisoners_Available>Нет доступных заключённых</TY_A_No_Prisoners_Available>
+    <TY_A_Go_Back>Назад</TY_A_Go_Back>
+    <TY_A_Active_Prisoner_Bounty_Quest>Активное задание награды за заключённого</TY_A_Active_Prisoner_Bounty_Quest>
+    <TY_A_Unlock_Prisoner_Bounty_Early>Разблокировать заранее (Если прибывающий шаттл уничтожен или по какой-либо причине не приземлился успешно, это вызовет эту проблему. Вам нужно будет заплатить плату, чтобы разблокировать его.)</TY_A_Unlock_Prisoner_Bounty_Early>
+
+<!-- 任务代码 -->
+    <string key="LetterTextSpacedroneHacked_Custom">Вы завершили взлом {0} и получили важную информацию в нём.</string>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YYS_YTCDMechlinkImplant.label>Мехлинк Перекованных</YYS_YTCDMechlinkImplant.label>
+  <YYS_YTCDMechlinkImplant.description>Изначально Розария Перекованные служили ручными базовыми станциями для сети OGAS, но позже было обнаружено, что они неожиданно хорошо подходят для установки дешёвых гештальт-мехлинков.\nСпециализированные мехлинки Розарии Перекованных управляют подразделениями механоидов. Хотя большинство промышленных зон Новой Федерации Речной Долины теперь напрямую используют систему OGAS, контрольные узлы Розарии остаются полезными только в пограничном освоении и военных операциях.</YYS_YTCDMechlinkImplant.description>
+
+
+  <!-- 损坏机械残骸 -->
+
+  <YYS_YTCDMechlinkImplantSH.label>Повреждённый мехлинк Перекованных</YYS_YTCDMechlinkImplantSH.label>
+  <YYS_YTCDMechlinkImplantSH.description>Требуется "Высокая мехтехнология" для ремонта.</YYS_YTCDMechlinkImplantSH.description>
+  <YYS_YTCDMechlinkImplantSH.labelNoun>Повреждённый мехлинк Перекованных</YYS_YTCDMechlinkImplantSH.labelNoun>
+
+
+</LanguageData>

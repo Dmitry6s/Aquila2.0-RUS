@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: 联邦境内的边缘星区状况十分复杂，[PAWN_nameDef]作为这些边缘星区公社的赤卫队的一员通常的工作是与当地少数族群和平交涉和围剿土匪，保证城镇安全与商队正常交流。赤卫队作为一种半军事化组织，并非是脱产人员，但是他们仍然收到过一定程度的训练。在战争当中他们承担着支援与辅助联邦红军和作为预备役的工作。在日常当中他们是维持公社内部与社会正常治安秩序的主要力量之一。 -->
+  <!--<AT_BackStory_A1A.baseDesc>TODO</AT_BackStory_A1A.baseDesc>-->
+  <!-- EN: 开拓公社赤卫队 -->
+  <!--<AT_BackStory_A1A.title>TODO</AT_BackStory_A1A.title>-->
+  <!-- EN: 赤卫队 -->
+  <!--<AT_BackStory_A1A.titleShort>TODO</AT_BackStory_A1A.titleShort>-->
+
+  <!-- EN: 联邦境内的边缘星区状况十分复杂，[PAWN_nameDef]作为这些边缘星区公社的赤卫队的一员通常的工作是与当地少数族群和平交涉和围剿土匪，保证城镇安全与商队正常交流。赤卫队作为一种半军事化组织，并非是脱产人员，但是他们仍然收到过一定程度的训练。在战争当中他们承担着支援与辅助联邦红军和作为预备役的工作。在日常当中他们是维持公社内部与社会正常治安秩序的主要力量之一。 -->
+  <!--<AT_BackStory_A1B.baseDesc>TODO</AT_BackStory_A1B.baseDesc>-->
+  <!-- EN: 开拓公社赤卫队 -->
+  <!--<AT_BackStory_A1B.title>TODO</AT_BackStory_A1B.title>-->
+  <!-- EN: 赤卫队 -->
+  <!--<AT_BackStory_A1B.titleShort>TODO</AT_BackStory_A1B.titleShort>-->
+
+  <!-- EN: 联邦境内的边缘星区状况十分复杂，[PAWN_nameDef]作为这些边缘星区公社的赤卫队的一员通常的工作是与当地少数族群和平交涉和围剿土匪，保证城镇安全与商队正常交流。赤卫队作为一种半军事化组织，并非是脱产人员，但是他们仍然收到过一定程度的训练。在战争当中他们承担着支援与辅助联邦红军和作为预备役的工作。在日常当中他们是维持公社内部与社会正常治安秩序的主要力量之一。 -->
+  <!--<AT_BackStory_A1C.baseDesc>TODO</AT_BackStory_A1C.baseDesc>-->
+  <!-- EN: 开拓公社赤卫队 -->
+  <!--<AT_BackStory_A1C.title>TODO</AT_BackStory_A1C.title>-->
+  <!-- EN: 赤卫队 -->
+  <!--<AT_BackStory_A1C.titleShort>TODO</AT_BackStory_A1C.titleShort>-->
+
+  <!-- EN: 驱动者的寿命大底上是200年左右，但联邦的成立时间大约也就不到100年。在最开始天鹰系革命战争期间的经验丰富的老红军有很多，也就持续存活至今。他们在革命战争期间，有的是正面革命战场前线冲锋的战士，有些是在拓荒星区作战的游击队员，也有的是在城市当中进行情报传递的地下党员。在革命战争完全胜利溪谷联邦组建之后，军队建设开始偏向于精锐化士兵配合机械步兵和火力打击。\n但是因为最近光辉圣堂对溪谷联邦发动的静默战争，使用了频段阻断干扰，使各种超视武器和大型战斗设施无法正常运转而彻底改变了战争形态。导致了曾经的精锐化战术无法适应现在的战场。于是联邦为了应对光辉的进攻和新的战争环境开始了大量的扩军，曾经的老红军也作为了现在的联邦红军当中的精锐力量尽量的去培养新一代的红军。 -->
+  <!--<AT_BackStory_A2.baseDesc>TODO</AT_BackStory_A2.baseDesc>-->
+  <!-- EN: 联邦老红军 -->
+  <!--<AT_BackStory_A2.title>TODO</AT_BackStory_A2.title>-->
+  <!-- EN: 老红军 -->
+  <!--<AT_BackStory_A2.titleShort>TODO</AT_BackStory_A2.titleShort>-->
+
+  <!-- EN: 联邦现阶段的步兵作战体系是以基础士兵作为机械师为引导，然后周围围绕着5到6个控制的机械族进行作战。所以可以说，联邦红军里面所有的士兵都是善于维修工作的机械师。一般来说[PAWN_nameDef]就如同大部分的红军战士一样，需要指挥引导机械体作战并在非战斗时间进行维修工作。[PAWN_nameDef]作为溪谷联邦的红军士兵，如同其他的红军士兵一样，具有较强的智慧与动手能力，但是[PAWN_nameDef]本人在艺术创新方面却有所欠缺。 -->
+  <!--<AT_BackStory_A3.baseDesc>TODO</AT_BackStory_A3.baseDesc>-->
+  <!-- EN: 红军技术员 -->
+  <!--<AT_BackStory_A3.title>TODO</AT_BackStory_A3.title>-->
+  <!-- EN: 红军技术员 -->
+  <!--<AT_BackStory_A3.titleShort>TODO</AT_BackStory_A3.titleShort>-->
+
+  <!-- EN: 溪谷联邦有着大量的未开拓区域，等待着全新的建设与探索。[PAWN_pronoun]作为志愿进行星际探索的联邦人民之一。与其他的开拓者一起，在边缘星球组织起来，开拓公社来逐步的帮助当地的工业与城市化建设。\n不过即使是在边缘星区的开拓公社当中，他们仍然主要使用联邦自主研发机械族来进行边区的建设。 -->
+  <!--<AT_BackStory_A4.baseDesc>TODO</AT_BackStory_A4.baseDesc>-->
+  <!-- EN: 开拓公社拓荒者 -->
+  <!--<AT_BackStory_A4.title>TODO</AT_BackStory_A4.title>-->
+  <!-- EN: 拓荒者 -->
+  <!--<AT_BackStory_A4.titleShort>TODO</AT_BackStory_A4.titleShort>-->
+
+  <!-- EN: 要说溪谷联邦最为广泛的实验，那就必然是操控机械进行生产劳动的机械师。\n联邦的孩子们在经历过初中之后，就会开始以半工半学的方式进行实业学习。文化课也会因此遭到一定的削弱，但是在大学的时候又会进行一定的补充。不过，经历这些前三年以及之后大学期间的实业学习，几乎让所有的联邦人都拥有着成为机械师的资质。\n联邦的机械师承担着控制维修机械灵活应变、维护自动化生产设施、开发设计新的硬件、会计、文字和数据处理、创意和多媒体制作等工作。\n看似繁忙，但是具体工作详细谁去安排什么工作是公社集体决定的。并且也为了让机械师多角度发展，公社集体有些时候会强制要求某个擅长某项工作的机械时，去在前辈的引导下进行工作。 -->
+  <!--<AT_BackStory_A5.baseDesc>TODO</AT_BackStory_A5.baseDesc>-->
+  <!-- EN: 联邦机械师 -->
+  <!--<AT_BackStory_A5.title>TODO</AT_BackStory_A5.title>-->
+  <!-- EN: 机械师 -->
+  <!--<AT_BackStory_A5.titleShort>TODO</AT_BackStory_A5.titleShort>-->
+
+  <!-- EN: [PAWN_nameDef]在成年时选择加入了溪谷联邦军队,将生命托付于祖国.[PAWN_pronoun]的兵种是近战突击兵,主要职责就是突击或者埋伏敌人.每个近战突击兵都配备着能量护盾,他们总能在耗尽能量前解决眼前的敌人. -->
+  <!--<AT_BackStory_A6.baseDesc>TODO</AT_BackStory_A6.baseDesc>-->
+  <!-- EN: 近战突击兵 -->
+  <!--<AT_BackStory_A6.title>TODO</AT_BackStory_A6.title>-->
+  <!-- EN: 突击兵 -->
+  <!--<AT_BackStory_A6.titleShort>TODO</AT_BackStory_A6.titleShort>-->
+
+  <!-- EN: [PAWN_nameDef]在军中服役多年,无数次出生入死与出其不意的战术战胜敌人,让[PAWN_pronoun]一步一步的爬上了司令官的位置. -->
+  <!--<AT_BackStory_A7.baseDesc>TODO</AT_BackStory_A7.baseDesc>-->
+  <!-- EN: 溪谷司令官 -->
+  <!--<AT_BackStory_A7.title>TODO</AT_BackStory_A7.title>-->
+  <!-- EN: 司令官 -->
+  <!--<AT_BackStory_A7.titleShort>TODO</AT_BackStory_A7.titleShort>-->
+
+</LanguageData>
