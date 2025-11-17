@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- </li>
+    </comps>
+    <tags>
+      <li>OvumExtracted</li>
+    </tags>
+  </HediffDef> -->
+
+  <TY_B_Resurrected_Nanomechanical_Devices.label>Наномашины‑воскресители</TY_B_Resurrected_Nanomechanical_Devices.label>
+  <TY_B_Resurrected_Nanomechanical_Devices.description>Записывая ДНК живого носителя и производя кроветворные стволовые клетки для восстановления ткани и активации жизненных функций, наномашины способны воскресить пешку.\nЖестокость множества Сумеречных войн сделала эту технологию ключом к повышению выживаемости империй.\nЕсть ограничения: если фронт прорван и труп попал к врагу — его сожгут; если тело разорвало артиллерией или полностью выжгло огнём — воскресить нельзя; при детонации боекомплекта экипаж сгорает; наномашины должны быть введены заранее при жизни для записи ДНК.\n(Эффект: даёт трупу новое действие: «Воскрешение»)</TY_B_Resurrected_Nanomechanical_Devices.description>
+  <TY_B_Resurrected_Nanomechanical_Devices.comps.0.useLabel>Имплантировать подлинк</TY_B_Resurrected_Nanomechanical_Devices.comps.0.useLabel>
+
+
+</LanguageData>

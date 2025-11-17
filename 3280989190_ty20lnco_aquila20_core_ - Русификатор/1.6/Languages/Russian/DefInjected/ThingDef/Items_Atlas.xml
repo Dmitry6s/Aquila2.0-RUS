@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <titanium_alloy.label>Титановый сплав</titanium_alloy.label>
+  <titanium_alloy.description>Титан обладает выдающимися свойствами и потому широко применяется: авиа‑космос, судостроение, химическая и нефтехимическая промышленность, транспорт, вооружение, морская инженерия, энергетика, строительство, металлургия, медицина, спортинвентарь, товары повседневного спроса и лёгкая промышленность.</titanium_alloy.description>
+  <titanium_alloy.stuffProps.stuffAdjective>Титановый сплав</titanium_alloy.stuffProps.stuffAdjective>
+
+  <TIalloy.label>Сплав TI2</TIalloy.label>
+  <TIalloy.description>Прочный бронестальной сплав, полученный сваркой и спеканием разнородных металлов.</TIalloy.description>
+  <TIalloy.stuffProps.stuffAdjective>Сплав TI2</TIalloy.stuffProps.stuffAdjective>
+
+  <EtherM.label>Оригинальная электронная кассетная лента</EtherM.label>
+  <EtherM.description>С виду как крупные кассеты с Мидворлда, но этот электронный компонент хранит электроны в гибких свёрнутых лентах.\nОтличается лучшей упругостью и износостойкостью, чем металлические компоненты, может складываться для экономии места.</EtherM.description>
+
+  <TY_A_Nano_solvent.label>Наномашины</TY_A_Nano_solvent.label>
+  <TY_A_Nano_solvent.description>Одна из ключевых технологий сектора Аквилы: наномашины незаменимы в вооружениях, гражданном строительстве, высокоточных технологиях, медицине, пси‑развитии, стройоперациях и в механоидах.</TY_A_Nano_solvent.description>
+
+
+  <!-- <ThingDef ParentName="ResourceBase">
+    <defName>EtherHuo</defName>
+    <label>火以太晶体管</label>
+    <description>火以太(πH)
+顾名思义，与火，或者说与能量相关。常用于军事或者制作燃料。</description>
+    <graphicData>
+      <texPath>Things/Items/EtherHuo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>100</stackLimit>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>213</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>EtherShui</defName>
+    <label>水以太晶体管</label>
+    <description>水以太(πS)
+顾名思义，与水相关。</description>
+    <graphicData>
+      <texPath>Things/Items/EtherShui</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>100</stackLimit>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>170</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>EtherMu</defName>
+    <label>木以太晶体管</label>
+    <description>木以太(πM)
+与生命力相关，木以太常用于制作真正意义上的“肉体仿生体”，或者用来...制作生物。</description>
+    <graphicData>
+      <texPath>Things/Items/EtherMu</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>100</stackLimit>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>167</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>EtherTu</defName>
+    <label>土以太晶体管</label>
+    <description>土以太(πT)
+顾名思义，与土相关。</description>
+    <graphicData>
+      <texPath>Things/Items/EtherTu</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>100</stackLimit>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>135</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>ShingLan</defName>
+    <label>星岚</label>
+    <description>星岚(ShingLan),从生物中提取出的一种特殊物质.奈何大多数人不懂得它的用处,因此在多数地方被认为是造价高又贵的垃圾,很少人愿意出高价购买.</description>
+    <graphicData>
+      <texPath>Things/Items/ShingLan</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>1000</stackLimit>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <MarketValue>170</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>YangYan</defName>
+    <label>阳炎石</label>
+    <description>将化合燃料放入爆裂熔炉中经过特别加工制成的晶体.</description>
+    <graphicData>
+      <texPath>Things/Items/YangYan</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>1000</stackLimit>
+    <statBases>
+      <Beauty>4</Beauty>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <MarketValue>32</MarketValue>
+      <Mass>2.5</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>BiCui</defName>
+    <label>碧翠华</label>
+    <description>将有机物放入爆裂熔炉中经过特别加工制成的胶状体,摸起来像果冻一样.这种物质目前只能用来制作木以太。</description>
+    <graphicData>
+      <texPath>Things/Items/BiCui</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>1000</stackLimit>
+    <statBases>
+      <Beauty>6</Beauty>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <MarketValue>43</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>TuLing</defName>
+    <label>土灵根</label>
+    <description>将石块放入爆裂熔炉中经过特别加工制成的物体.看起来有点像中药,你要尝一尝吗?</description>
+    <graphicData>
+      <texPath>Things/Items/TuLing</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>1000</stackLimit>
+    <statBases>
+      <Beauty>6</Beauty>
+      <MaxHitPoints>1000</MaxHitPoints>
+      <MarketValue>12</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef> -->
+
+  <EHeart.label>Бьющееся сердце</EHeart.label>
+  <EHeart.description>Свежее сердце, добытое у нелюдских чудовищ, включая порождений Церкви Славы.</EHeart.description>
+
+
+</LanguageData>

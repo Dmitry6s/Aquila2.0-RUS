@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Magic_AtCY.label>Боёвое зелье «Первиан: раскалывание»</Magic_AtCY.label>
+  <Magic_AtCY.description>Боевое зелье «Первиан: раскалывание» использовалось солдатами в Сумеречных войнах между межзвёздными империями. Относительно недорогое и значительно повышающее боевую эффективность. Сейчас широко применяется Церковью Славы для стремительных прорывов.</Magic_AtCY.description>
+  <Magic_AtCY.ingestible.ingestCommandString>Выпить {0}</Magic_AtCY.ingestible.ingestCommandString>
+  <Magic_AtCY.ingestible.ingestReportString>Несёт {0}.</Magic_AtCY.ingestible.ingestReportString>
+
+
+</LanguageData>

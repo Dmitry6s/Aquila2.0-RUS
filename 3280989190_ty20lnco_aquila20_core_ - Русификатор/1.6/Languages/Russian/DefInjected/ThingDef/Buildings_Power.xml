@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZHpower_AtBuild.label>Атомная солнечная панель</ZHpower_AtBuild.label>
+  <ZHpower_AtBuild.description>Специальная структура чипов и механики для лучшего поглощения солнечной энергии.</ZHpower_AtBuild.description>
+  <ZHpower_AtBuild_Blueprint.label>Атомная солнечная панель (чертёж)</ZHpower_AtBuild_Blueprint.label>
+  <ZHpower_AtBuild_Frame.label>Атомная солнечная панель (строится)</ZHpower_AtBuild_Frame.label>
+  <ZHpower_AtBuild_Frame.description>Специальная структура чипов и механики для лучшего поглощения солнечной энергии.</ZHpower_AtBuild_Frame.description>
+
+  <EBattery_AtBuild.label>Электрический накопитель</EBattery_AtBuild.label>
+  <EBattery_AtBuild.description>Устройство хранения, способное аккумулировать большие объёмы электроэнергии.</EBattery_AtBuild.description>
+  <EBattery_AtBuild_Blueprint.label>Электрический накопитель (чертёж)</EBattery_AtBuild_Blueprint.label>
+  <EBattery_AtBuild_Blueprint_Install.label>Электрический накопитель (чертёж)</EBattery_AtBuild_Blueprint_Install.label>
+  <EBattery_AtBuild_Frame.label>Электрический накопитель (строится)</EBattery_AtBuild_Frame.label>
+  <EBattery_AtBuild_Frame.description>Устройство хранения, способное аккумулировать большие объёмы электроэнергии.</EBattery_AtBuild_Frame.description>
+
+
+</LanguageData>

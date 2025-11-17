@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mech_N_JianChaShiSurveillance.label>Посланник надзора</Mech_N_JianChaShiSurveillance.label>
+  <Mech_N_JianChaShiSurveillance.description>Особый механоид из «идеального инженерного проекта» Церкви Славы. Ранее контролировал обучение туземцев технологиям Аквилы. За его уничтожение можно получить высокопроизводительное ядро полосы пропускания.</Mech_N_JianChaShiSurveillance.description>
+  <Mech_N_JianChaShiSurveillance.tools.0.label>Удар</Mech_N_JianChaShiSurveillance.tools.0.label>
+  <Mech_N_JianChaShiSurveillance.tools.1.label>Удар</Mech_N_JianChaShiSurveillance.tools.1.label>
+  <Mech_N_JianChaShiSurveillance.tools.2.label>Удар ногой</Mech_N_JianChaShiSurveillance.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <Mech_N_JianChaShiSurveillance_Corpse.label>труп Посланника надзора</Mech_N_JianChaShiSurveillance_Corpse.label>
+  <Mech_N_JianChaShiSurveillance_Corpse.description>Труп Посланника надзора</Mech_N_JianChaShiSurveillance_Corpse.description>
+
+  <TY_MJiZQ_A_WeaponTurret.label>Оружейная система: 19,5‑мм пулемёт</TY_MJiZQ_A_WeaponTurret.label>
+  <TY_MJiZQ_A_WeaponTurret.description>19,5‑мм тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.description>
+
+  <TY_Bxzd_AtB.label>Кассетный кумулятив</TY_Bxzd_AtB.label>
+
+  <TY_High_performance_broadband_chip.label>Чип высокопроизводительной полосы</TY_High_performance_broadband_chip.label>
+  <TY_High_performance_broadband_chip.description>Ключевой компонент для создания высокопроизводительных узлов полосы пропускания.</TY_High_performance_broadband_chip.description>
+
+  <TY_Armed_mining_machine.label>Экскаватор «Крот»-1</TY_Armed_mining_machine.label>
+  <TY_Armed_mining_machine.description>«Крот»-1 — механоид Федерации Долины Рек (5472 г.) для раскопок, добычи и подземного строительства. В широкой «голове» размещён лазерный излучатель, бурящий грунт высокоинтенсивным лучом.\nОднако из‑за политических потрясений 5472 года «Крот» так и не был внедрён повсеместно. Создание Суверенной Конфедерации привело к утрате многих научных достижений, и «Крот» вместе с массой механоидных технологий оказался в распоряжении механоидов окраинных миров.</TY_Armed_mining_machine.description>
+  <TY_Armed_mining_machine.tools.0.label>левая кисть</TY_Armed_mining_machine.tools.0.label>
+  <TY_Armed_mining_machine.tools.1.label>правая кисть</TY_Armed_mining_machine.tools.1.label>
+  <TY_Armed_mining_machine.tools.2.label>голова</TY_Armed_mining_machine.tools.2.label>
+  <!-- Flesh Type: Mechanoid -->
+  <TY_Armed_mining_machine_Corpse.label>труп «Крота»-1</TY_Armed_mining_machine_Corpse.label>
+  <TY_Armed_mining_machine_Corpse.description>Труп «Крота»-1</TY_Armed_mining_machine_Corpse.description>
+
+  <TY_qWifier_Bullet.label>Лазер</TY_qWifier_Bullet.label>
+
+  <TY_MJQiang_A_Weapon.label>Оружейная система: механоидный лазерный бур</TY_MJQiang_A_Weapon.label>
+  <TY_MJQiang_A_Weapon.description>Лазерный бур для горных работ, но, разумеется, годится и для атак.</TY_MJQiang_A_Weapon.description>
+
+  <TY_Mech_CentipedeGunner.label>Транспортная многоножка</TY_Mech_CentipedeGunner.label>
+  <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный юнит механоидов для добычи металлических ресурсов; обычно оснащён скорострельными пулемётами для самозащиты.</TY_Mech_CentipedeGunner.description>
+  <TY_Mech_CentipedeGunner.tools.0.label>голова</TY_Mech_CentipedeGunner.tools.0.label>
+  <!-- Flesh Type: Mechanoid -->
+  <TY_Mech_CentipedeGunner_Corpse.label>труп транспортной многоножки</TY_Mech_CentipedeGunner_Corpse.label>
+  <TY_Mech_CentipedeGunner_Corpse.description>Труп транспортной многоножки</TY_Mech_CentipedeGunner_Corpse.description>
+
+
+</LanguageData>

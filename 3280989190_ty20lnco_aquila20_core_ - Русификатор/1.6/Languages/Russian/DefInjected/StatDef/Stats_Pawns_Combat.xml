@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <MeleeDamageFactor.label>melee damage factor</MeleeDamageFactor.label>-->
+  <!--[Core] <MeleeDamageFactor.description>A multiplier on the amount of melee damage inflicted by this person.</MeleeDamageFactor.description>-->
+
+  <MeleeDoorDamageFactor.label>Множитель урона двери в ближнем бою</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.description>Специальный множитель урона в ближнем бою, наносимого дверям.</MeleeDoorDamageFactor.description>
+
+  <ShootingAccuracyChildFactor.label>Множитель точности стрельбы</ShootingAccuracyChildFactor.label>
+
+  <!--[Core] <StaggerDurationFactor.label>stagger time multiplier</StaggerDurationFactor.label>-->
+  <!--[Core] <StaggerDurationFactor.description>A multiplier on the duration of the stagger-slowdown that occurs when damage is taken.</StaggerDurationFactor.description>-->
+
+  <!--[Core] <RangedCooldownFactor.label>ranged cooldown multiplier</RangedCooldownFactor.label>-->
+  <!--[Core] <RangedCooldownFactor.description>A multiplier on the cooldown between bursts when using a ranged weapon.</RangedCooldownFactor.description>-->
+
+
+</LanguageData>

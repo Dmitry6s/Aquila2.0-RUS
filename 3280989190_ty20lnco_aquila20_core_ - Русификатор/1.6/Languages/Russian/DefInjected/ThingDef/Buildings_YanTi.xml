@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SLDD_AtBuild.label>Искряющийся фонарь</SLDD_AtBuild.label>
+  <SLDD_AtBuild.description>Собственный источник питания и яркое свечение. Нескольких фонарей достаточно, чтобы осветить всю колонию.</SLDD_AtBuild.description>
+  <SLDD_AtBuild_Blueprint.label>Искряющийся фонарь (чертёж)</SLDD_AtBuild_Blueprint.label>
+  <SLDD_AtBuild_Blueprint_Install.label>Искряющийся фонарь (чертёж)</SLDD_AtBuild_Blueprint_Install.label>
+  <SLDD_AtBuild_Frame.label>Искряющийся фонарь (строится)</SLDD_AtBuild_Frame.label>
+  <SLDD_AtBuild_Frame.description>Собственный источник питания и яркое свечение. Нескольких фонарей достаточно, чтобы осветить всю колонию.</SLDD_AtBuild_Frame.description>
+
+  <YanTi_AtBuild.label>Защитная стена</YanTi_AtBuild.label>
+  <YanTi_AtBuild.description>Настоящий бункер во всех смыслах. Кромки возведены по спецтехнологии: лишь малая доля пуль пробивает, остальные снаряды рикошетят. Требует много материалов и времени. (Важно: чтобы получить укрытие, пешка должна стоять вплотную.)</YanTi_AtBuild.description>
+  <YanTi_AtBuild_Blueprint.label>Защитная стена (чертёж)</YanTi_AtBuild_Blueprint.label>
+  <YanTi_AtBuild_Frame.label>Защитная стена (строится)</YanTi_AtBuild_Frame.label>
+  <YanTi_AtBuild_Frame.description>Настоящий бункер во всех смыслах. Кромки возведены по спецтехнологии: лишь малая доля пуль пробивает, остальные снаряды рикошетят. Требует много материалов и времени. (Важно: чтобы получить укрытие, пешка должна стоять вплотную.)</YanTi_AtBuild_Frame.description>
+
+  <TY_MoisturePump.label>Улучшенный осушитель</TY_MoisturePump.label>
+  <TY_MoisturePump.description>Продвинутая версия с увеличенным радиусом: осушает область примерно за 5 дней.</TY_MoisturePump.description>
+  <TY_MoisturePump_Blueprint.label>Улучшенный осушитель (чертёж)</TY_MoisturePump_Blueprint.label>
+  <TY_MoisturePump_Frame.label>Улучшенный осушитель (строится)</TY_MoisturePump_Frame.label>
+  <TY_MoisturePump_Frame.description>Продвинутая версия с увеличенным радиусом: осушает область примерно за 5 дней.</TY_MoisturePump_Frame.description>
+
+  <TY_A_strange_and_peculiar_doll.label>Кукла «Перекованная»</TY_A_strange_and_peculiar_doll.label>
+  <TY_A_strange_and_peculiar_doll.description>Кукла‑талисман… но почему она здесь? Никаких игровых функций — просто декор.</TY_A_strange_and_peculiar_doll.description>
+  <TY_A_strange_and_peculiar_doll_Blueprint.label>Кукла «Перекованная» (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint.label>
+  <TY_A_strange_and_peculiar_doll_Blueprint_Install.label>Кукла «Перекованная» (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint_Install.label>
+  <TY_A_strange_and_peculiar_doll_Frame.label>Кукла «Перекованная» (строится)</TY_A_strange_and_peculiar_doll_Frame.label>
+  <TY_A_strange_and_peculiar_doll_Frame.description>Кукла‑талисман… но почему она здесь? Никаких игровых функций — просто декор.</TY_A_strange_and_peculiar_doll_Frame.description>
+
+
+</LanguageData>

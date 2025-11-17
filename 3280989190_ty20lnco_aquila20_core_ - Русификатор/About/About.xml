@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[TY2.0]天鹰核心 Aquila2.0 Core - Русификатор</name>
+	<author>Elengal</author>
+	<packageId>Elengal.TYll.CoreRU</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>TYll.Core</packageId>
+			<displayName>[TY2.0]天鹰核心 Aquila2.0 Core</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>TYll.Core</li>
+	</loadAfter>
+	<description>Русификатор для мода [TY2.0]天鹰核心 Aquila2.0 Core.</description>
+</ModMetaData>
+
+

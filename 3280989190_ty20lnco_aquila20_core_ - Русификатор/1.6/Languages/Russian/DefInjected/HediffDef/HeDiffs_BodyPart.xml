@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 科技植入体 -->
+
+  <EtherCore.label>Атомный реактор TI2</EtherCore.label>
+  <EtherCore.description>Энергетическое ядро Розарии Перекованных и некоторых особых Перекованных.</EtherCore.description>
+
+  <ShingLanArm.label>Атомная бионическая рука</ShingLanArm.label>
+  <ShingLanArm.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanArm.description>
+
+  <ShingLanLeg.label>Атомная бионическая нога</ShingLanLeg.label>
+  <ShingLanLeg.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanLeg.description>
+
+  <ShingLanSpine.label>Атомный бионический позвоночник</ShingLanSpine.label>
+  <ShingLanSpine.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanSpine.description>
+
+  <ShingLanStomach.label>Атомный бионический желудок</ShingLanStomach.label>
+  <ShingLanStomach.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanStomach.description>
+
+  <ShingLanLung.label>Атомное бионическое лёгкое</ShingLanLung.label>
+  <ShingLanLung.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanLung.description>
+
+  <ShingLanKidney.label>Атомная бионическая почка</ShingLanKidney.label>
+  <ShingLanKidney.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanKidney.description>
+
+  <ShingLanLiver.label>Атомная бионическая печень</ShingLanLiver.label>
+  <ShingLanLiver.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanLiver.description>
+
+  <ShingLanEye.label>Атомный бионический глаз</ShingLanEye.label>
+  <ShingLanEye.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanEye.description>
+
+  <ShingLanEar.label>Атомное бионическое ухо</ShingLanEar.label>
+  <ShingLanEar.description>Вторая атомная революция дала миру новое чистое энергоисточник, а вместе с ним — и новые технологии протезирования.</ShingLanEar.description>
+
+
+</LanguageData>

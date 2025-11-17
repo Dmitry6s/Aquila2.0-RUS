@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- </li>
+    </comps>
+    <tags>
+      <li>OvumExtracted</li>
+    </tags>
+  </HediffDef> -->
+
+  <TY_DeathRefusal.label>Наномашины-воскресители</TY_DeathRefusal.label>
+  <TY_DeathRefusal.description>Наномашины, способные воскресить носителя после смертельного поражения.</TY_DeathRefusal.description>
+
+
+</LanguageData>

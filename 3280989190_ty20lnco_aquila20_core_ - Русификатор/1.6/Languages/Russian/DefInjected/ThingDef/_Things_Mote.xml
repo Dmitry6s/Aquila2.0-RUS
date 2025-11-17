@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <Mote_Fire_At.label>Mote</Mote_Fire_At.label>
+  <Mote_Ice_At.label>Mote</Mote_Ice_At.label>
+  <Mote_Lei_At.label>Mote</Mote_Lei_At.label>
+  <Mote_HJG_At.label>Mote</Mote_HJG_At.label>
+  <Mote_LJG_At.label>Mote</Mote_LJG_At.label>
+
+
+</LanguageData>

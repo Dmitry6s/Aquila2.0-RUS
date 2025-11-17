@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 不改worn名字是因为工程量太多累所以就不管旧的了 -->
+
+  <AP_N_MiscA.label>Одежда Аквилы: костюм монахини</AP_N_MiscA.label>
+  <AP_N_MiscA.description>Немного непристойный костюм монахини. — Иллюстрация: 曼珠沙华</AP_N_MiscA.description>
+
+  <AP_N_MiscB.label>Одежда Аквилы: костюм Флэр</AP_N_MiscB.label>
+  <AP_N_MiscB.description>Наряд Флэр Арлгранде Джио'рал (フレア·アールグランデ·ジオラル) из ранобэ и манги «Перерождение целителя» (<i>Kaifuku Jutsushi no Yarinaoshi</i>). — Иллюстрация: 曼珠沙华</AP_N_MiscB.description>
+
+  <AP_N_MiscC.label>Одежда Аквилы: Водный прилив</AP_N_MiscC.label>
+  <AP_N_MiscC.description>Наряд Райден Мэй (雷电芽衣) из игры <i>Honkai Impact 3rd</i>. — Иллюстрация: 曼珠沙华</AP_N_MiscC.description>
+
+
+  <!-- 更多的衣服 -->
+
+  <AP_N_MiscE.label>Одежда Аквилы: ципао Ваньси</AP_N_MiscE.label>
+  <AP_N_MiscE.description>Один из нарядов культуры Ваньси.</AP_N_MiscE.description>
+
+  <AP_N_MiscF.label>Одежда Аквилы: чёрный боди</AP_N_MiscF.label>
+  <AP_N_MiscF.description>Чёрный боди… напоминает наряд персонажей из <i>Azur Lane</i>.</AP_N_MiscF.description>
+
+  <AP_N_MiscG.label>Одежда Аквилы: ритуальное одеяние Славы</AP_N_MiscG.label>
+  <AP_N_MiscG.description>Ритуальное одеяние Славы.</AP_N_MiscG.description>
+
+  <AP_N_MiscH.label>Одежда Аквилы: униформа медсестры</AP_N_MiscH.label>
+  <AP_N_MiscH.description>Униформа медсестры.</AP_N_MiscH.description>
+
+  <AP_N_MiscI.label>Одежда Аквилы: одеяние Целесты</AP_N_MiscI.label>
+  <AP_N_MiscI.description>Одеяние Целесты.</AP_N_MiscI.description>
+
+  <AP_N_MiscJ.label>Одежда Аквилы: боевая броня Бринхильды</AP_N_MiscJ.label>
+  <AP_N_MiscJ.description>Наряд Бринхильды из игры <i>Daiblos Core</i> (交错战线).</AP_N_MiscJ.description>
+
+  <AS_N_JSyan.label>«Кошачьи колготки»</AS_N_JSyan.label>
+  <AS_N_JSyan.description>Отсылка к видео автора «简单一颗星» («Простая одна звезда») на Bilibili.</AS_N_JSyan.description>
+
+  <AP_N_KBND.label>Набор «Похотливый вампир»</AP_N_KBND.label>
+  <AP_N_KBND.description>Набор «Похотливый вампир».</AP_N_KBND.description>
+
+  <AP_N_BG.label>Костюм «девушки-зайчика»</AP_N_BG.label>
+  <AP_N_BG.description>Костюм «девушки-зайчика».</AP_N_BG.description>
+
+  <AP_N_JHYB.label>Цельный чёрный нейлоновый боди</AP_N_JHYB.label>
+  <AP_N_JHYB.description>Цельный чёрный нейлоновый боди.</AP_N_JHYB.description>
+
+  <AP_N_XinZuang.label>Костюм дворецкого</AP_N_XinZuang.label>
+  <AP_N_XinZuang.description>Костюм дворецкого.</AP_N_XinZuang.description>
+
+
+  <!-- ————————————————头部—————————————————— -->
+
+  <AH_N_MiscA.label>Одежда Аквилы: императорская корона</AH_N_MiscA.label>
+  <AH_N_MiscA.description>Императорская корона.</AH_N_MiscA.description>
+
+  <AH_N_MiscJ.label>Одежда Аквилы: головной убор Бринхильды</AH_N_MiscJ.label>
+  <AH_N_MiscJ.description>Наряд Бринхильды из игры <i>Daiblos Core</i> (交错战线).</AH_N_MiscJ.description>
+
+  <AS_N_JSyana.label>Шлем «кошачьи колготки»</AS_N_JSyana.label>
+  <AS_N_JSyana.description>Отсылка к видео «Простая одна звезда» на Bilibili.</AS_N_JSyana.description>
+
+
+</LanguageData>

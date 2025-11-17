@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <RecipeDef ParentName="SingLanBody">
+    <defName>Make_SlYan</defName>
+    <label>Make Micro Atomic Reactor</label>
+    <description>Make Micro Atomic Reactor</description>
+    <workAmount>3</workAmount>
+    <ingredients Inherit="False">
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Neutroamine</li>
+          </thingDefs>
+        </filter>
+        <count>30</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>PowerfocusChip</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>NanostructuringChip</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>TY_A_Nano_solvent</li>
+          </thingDefs>
+        </filter>
+        <count>120</count>
+      </li>
+    </ingredients>
+    <products>
+      <EtherCore>1</EtherCore>
+    </products>
+  </RecipeDef> -->
+
+  <Make_SlYan.label>Сделать атомный бионический глаз</Make_SlYan.label>
+  <Make_SlYan.description>Изготовить атомный бионический глаз</Make_SlYan.description>
+  <Make_SlYan.jobString>Изготовление</Make_SlYan.jobString>
+
+  <Make_SlEr.label>Сделать атомное бионическое ухо</Make_SlEr.label>
+  <Make_SlEr.description>Изготовить атомное бионическое ухо</Make_SlEr.description>
+  <Make_SlEr.jobString>Изготовление</Make_SlEr.jobString>
+
+  <Make_SlJizhui.label>Сделать атомный бионический позвоночник</Make_SlJizhui.label>
+  <Make_SlJizhui.description>Изготовить атомный бионический позвоночник</Make_SlJizhui.description>
+  <Make_SlJizhui.jobString>Изготовление</Make_SlJizhui.jobString>
+
+  <Make_SlWei.label>Сделать атомный бионический желудок</Make_SlWei.label>
+  <Make_SlWei.description>Изготовить атомный бионический желудок</Make_SlWei.description>
+  <Make_SlWei.jobString>Изготовление</Make_SlWei.jobString>
+
+  <Make_SlFei.label>Сделать атомное бионическое лёгкое</Make_SlFei.label>
+  <Make_SlFei.description>Изготовить атомное бионическое лёгкое</Make_SlFei.description>
+  <Make_SlFei.jobString>Изготовление</Make_SlFei.jobString>
+
+  <Make_SlShen.label>Сделать атомную бионическую почку</Make_SlShen.label>
+  <Make_SlShen.description>Изготовить атомную бионическую почку</Make_SlShen.description>
+  <Make_SlShen.jobString>Изготовление</Make_SlShen.jobString>
+
+  <Make_SlGan.label>Сделать атомную бионическую печень</Make_SlGan.label>
+  <Make_SlGan.description>Изготовить атомную бионическую печень</Make_SlGan.description>
+  <Make_SlGan.jobString>Изготовление</Make_SlGan.jobString>
+
+  <Make_SlBi.label>Сделать атомную бионическую руку</Make_SlBi.label>
+  <Make_SlBi.description>Изготовить атомную бионическую руку</Make_SlBi.description>
+  <Make_SlBi.jobString>Изготовление</Make_SlBi.jobString>
+
+  <Make_SlTui.label>Сделать атомную бионическую ногу</Make_SlTui.label>
+  <Make_SlTui.description>Изготовить атомную бионическую ногу</Make_SlTui.description>
+  <Make_SlTui.jobString>Изготовление</Make_SlTui.jobString>
+
+
+</LanguageData>

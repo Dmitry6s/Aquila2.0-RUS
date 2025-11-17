@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 制造相关DoBillsMatterfab -->
+
+  <DoQiMiaoWork.label>Работа</DoQiMiaoWork.label>
+  <DoQiMiaoWork.verb>Работать</DoQiMiaoWork.verb>
+  <DoQiMiaoWork.gerund>Выполнение работы</DoQiMiaoWork.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Debuff -->
+
+  <TY_Trait_YCBX.degreeDatas.0.label>&lt;color=#66FF99&gt;&lt;b&gt;Вера Фидес&lt;/b&gt;&lt;/color&gt;</TY_Trait_YCBX.degreeDatas.0.label>
+  <TY_Trait_YCBX.degreeDatas.0.description>{PAWN_nameDef} — по-настоящему добрый человек с несокрушимой честностью. Если [PAWN_pronoun] что-то обещает, то всегда выполняет. Любим окружающими, но часто страдает, ведь [PAWN_pronoun] почти никогда не может отказать.</TY_Trait_YCBX.degreeDatas.0.description>
+
+  <TY_Trait_KJW.degreeDatas.0.label>&lt;color=#66FF99&gt;&lt;b&gt;Король торга&lt;/b&gt;&lt;/color&gt;</TY_Trait_KJW.degreeDatas.0.label>
+  <TY_Trait_KJW.degreeDatas.0.description>На шахматной доске торговли {PAWN_nameDef} прозван «Королём торга» за выдающиеся навыки переговоров. Улавливает пульс рынка и выбирает идеальный момент, чтобы выбить лучшие условия сделки благодаря чутью и умению общаться.</TY_Trait_KJW.degreeDatas.0.description>
+
+  <TY_Trait_ZL.degreeDatas.0.label>&lt;color=#66FF99&gt;&lt;b&gt;Самодисциплина&lt;/b&gt;&lt;/color&gt;</TY_Trait_ZL.degreeDatas.0.label>
+  <TY_Trait_ZL.degreeDatas.0.description>{PAWN_nameDef} отличается выдающейся самодисциплиной: управляет временем, ставит цели, планирует и доводит дела до конца.</TY_Trait_ZL.degreeDatas.0.description>
+
+  <TY_Trait_YG.degreeDatas.0.label>&lt;color=#66FF99&gt;&lt;b&gt;Смелым сопутствует удача&lt;/b&gt;&lt;/color&gt;</TY_Trait_YG.degreeDatas.0.label>
+  <TY_Trait_YG.degreeDatas.0.description>«Audentes Fortuna Iuvat» («Смелым сопутствует удача») — девиз {PAWN_nameDef}. [PAWN_pronoun] смело встаёт против зла и несправедливости, вдохновляя окружающих и воплощая правосудие.</TY_Trait_YG.degreeDatas.0.description>
+
+  <TY_Trait_XZYM.degreeDatas.0.label>&lt;color=#00FFE6&gt;&lt;b&gt;Благодать Галатеи&lt;/b&gt;&lt;/color&gt;</TY_Trait_XZYM.degreeDatas.0.label>
+  <TY_Trait_XZYM.degreeDatas.0.description>Невероятно… {PAWN_nameDef} — просто самое прекрасное создание во Вселенной. Даже аскет, тренировавшийся десятилетиями, влюбится с первого взгляда.</TY_Trait_XZYM.degreeDatas.0.description>
+
+  <TY_Trait_JXHZ.degreeDatas.0.label>&lt;color=#444444&gt;&lt;b&gt;Экстремальный пациент&lt;/b&gt;&lt;/color&gt;</TY_Trait_JXHZ.degreeDatas.0.label>
+  <TY_Trait_JXHZ.degreeDatas.0.description>В мире внезапно появился неизвестный мутогенный вирус с невиданными симптомами. Он неизлечим и пробуждает тьму в людях, толкая их на преступления. Учёные назвали заражённых «экстремальными пациентами».\nКогда явился Абаддон, пошли дожди, как метеоры… Капли искали своих хозяев, чтобы крестить утопающих в отчаянии. Так {PAWN_nameDef} стал «экстремальным пациентом». («<i>极度分裂</i> (Splitting)», Dr.大吉 &amp; 晓, 知音漫客)</TY_Trait_JXHZ.degreeDatas.0.description>
+
+  <TY_Trait_ZK.degreeDatas.0.label>&lt;color=#C63300&gt;&lt;b&gt;Боевая машина&lt;/b&gt;&lt;/color&gt;</TY_Trait_ZK.degreeDatas.0.label>
+  <TY_Trait_ZK.degreeDatas.0.description>{PAWN_nameDef} — словно боевая машина: боевые навыки отточены до остроты.</TY_Trait_ZK.degreeDatas.0.description>
+
+  <T14FCYZ.degreeDatas.0.label>&lt;color=#66FF99&gt;&lt;b&gt;Чёрный Джек — странный хирург&lt;/b&gt;&lt;/color&gt;</T14FCYZ.degreeDatas.0.label>
+  <T14FCYZ.degreeDatas.0.description>{PAWN_nameDef} — высококлассный хирург, известный исключительным мастерством. Работает без официальной лицензии, методы и высокие гонорары вызывают споры, формируя сомнительную репутацию. Тем не менее к {PAWN_objective} обращаются за случаями, с которыми другие хирурги не справляются. («<i>ブラックジャック</i>», Осаму Тэдзука, SHōNEN CHAMPION COMICS)</T14FCYZ.degreeDatas.0.description>
+
+
+</LanguageData>

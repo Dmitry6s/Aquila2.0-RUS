@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 服装模板定义 - 抽象基类，不可直接实例化 -->
+
+  <TY_ApparelArmor.label>Снаряжение Аквилы</TY_ApparelArmor.label>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sugar_AtFood.label>Конфеты</Sugar_AtFood.label>
+  <Sugar_AtFood.description>Вкусные конфеты.</Sugar_AtFood.description>
+
+  <AXBD_AtFood.label>Изысканная бэнто</AXBD_AtFood.label>
+  <AXBD_AtFood.description>Изысканное бэнто: для колонистов и представить было сложно такое на окраинном мире. (Но готовить — то ещё мучение.)</AXBD_AtFood.description>
+
+  <Yysj_AtFood.label>Жареная курица</Yysj_AtFood.label>
+  <Yysj_AtFood.description>Популярное блюдо: целая курица маринуется и запекается до золотистой корочки.</Yysj_AtFood.description>
+
+  <Mgjb_AtFood.label>Буррито</Mgjb_AtFood.label>
+  <Mgjb_AtFood.description>Мексиканское блюдо: тортилья с начинкой из мяса или фасоли.</Mgjb_AtFood.description>
+
+  <Lbmz_AtFood.label>Гамбургер</Lbmz_AtFood.label>
+  <Lbmz_AtFood.description>Булка с овощами и мясом. Говорят, «мусорная еда» — но по ингредиентам вполне достойно.</Lbmz_AtFood.description>
+
+  <Jbdl_AtFood.label>Функциональный напиток</Jbdl_AtFood.label>
+  <Jbdl_AtFood.description>Одна бутылка бодрит, две — прощай усталость, три — почти бессмертие.</Jbdl_AtFood.description>
+
+  <JZGT_AtFood.label>Деликатесная консерва</JZGT_AtFood.label>
+  <JZGT_AtFood.description>Деликатес с добавками витаминов, поддерживающих иммунитет.</JZGT_AtFood.description>
+
+  <Qqlb_AtFood.label>Энергетический батончик</Qqlb_AtFood.label>
+  <Qqlb_AtFood.description>Батончик, дающий заряд энергии.</Qqlb_AtFood.description>
+
+  <JBQS_AtFood.label>Газировка</JBQS_AtFood.label>
+  <JBQS_AtFood.description>Точно не C*c* C*l*.</JBQS_AtFood.description>
+
+  <SP_AtFood.label>Чипсы</SP_AtFood.label>
+  <SP_AtFood.description>В этих чипсах точно нет стимуляторов… правда?</SP_AtFood.description>
+
+  <Jdxl_AtFood.label>Мороженое</Jdxl_AtFood.label>
+  <Jdxl_AtFood.description>Вкусное мороженое.</Jdxl_AtFood.description>
+
+  <Kkms_AtFood.label>Какао-мусс</Kkms_AtFood.label>
+  <Kkms_AtFood.description>Вкусный какао-мусс.</Kkms_AtFood.description>
+
+
+</LanguageData>

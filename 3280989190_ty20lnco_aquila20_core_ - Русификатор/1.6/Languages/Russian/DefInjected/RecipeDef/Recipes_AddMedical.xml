@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AddEtherCore.label>Установить микроатомный реактор</AddEtherCore.label>
+  <AddEtherCore.description>Операция по установке</AddEtherCore.description>
+  <AddEtherCore.jobString>Установка микроатомного реактора</AddEtherCore.jobString>
+
+  <AddSlArm.label>Установить атомную бионическую руку</AddSlArm.label>
+  <AddSlArm.description>Операция по установке</AddSlArm.description>
+  <AddSlArm.jobString>Установка атомной бионической руки</AddSlArm.jobString>
+
+  <AddSlLeg.label>Установить атомную бионическую ногу</AddSlLeg.label>
+  <AddSlLeg.description>Операция по установке</AddSlLeg.description>
+  <AddSlLeg.jobString>Установка атомной бионической ноги</AddSlLeg.jobString>
+
+  <AddSlEye.label>Установить атомный бионический глаз</AddSlEye.label>
+  <AddSlEye.description>Операция по установке</AddSlEye.description>
+  <AddSlEye.jobString>Установка атомного бионического глаза</AddSlEye.jobString>
+
+  <AddSlEar.label>Установить атомное бионическое ухо</AddSlEar.label>
+  <AddSlEar.description>Операция по установке</AddSlEar.description>
+  <AddSlEar.jobString>Установка атомного бионического уха</AddSlEar.jobString>
+
+  <AddSlSpine.label>Установить атомный бионический позвоночник</AddSlSpine.label>
+  <AddSlSpine.description>Операция по установке</AddSlSpine.description>
+  <AddSlSpine.jobString>Установка атомного бионического позвоночника</AddSlSpine.jobString>
+
+  <AddSlStomach.label>Установить атомный бионический желудок</AddSlStomach.label>
+  <AddSlStomach.description>Операция по установке</AddSlStomach.description>
+  <AddSlStomach.jobString>Установка атомного бионического желудка</AddSlStomach.jobString>
+
+  <AddSlLung.label>Установить атомное бионическое лёгкое</AddSlLung.label>
+  <AddSlLung.description>Операция по установке</AddSlLung.description>
+  <AddSlLung.jobString>Установка атомного бионического лёгкого</AddSlLung.jobString>
+
+  <AddSlKidney.label>Установить атомную бионическую почку</AddSlKidney.label>
+  <AddSlKidney.description>Операция по установке</AddSlKidney.description>
+  <AddSlKidney.jobString>Установка атомной бионической почки</AddSlKidney.jobString>
+
+  <AddSlLiver.label>Установить атомную бионическую печень</AddSlLiver.label>
+  <AddSlLiver.description>Операция по установке</AddSlLiver.description>
+  <AddSlLiver.jobString>Установка атомной бионической печени</AddSlLiver.jobString>
+
+
+</LanguageData>

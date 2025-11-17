@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_A_Induced_signal_transmitter.label>Передатчик индукционного сигнала Посланника надзора</TY_A_Induced_signal_transmitter.label>
+  <TY_A_Induced_signal_transmitter.description>Особый механоид из проекта Церкви Славы. Ранее контролировал обучение туземцев технологиям Аквилы на окраинных мирах. За победу можно получить ядро высокой полосы пропускания. Импульсы выжигают антенну — устройство одноразовое.</TY_A_Induced_signal_transmitter.description>
+  <TY_A_Induced_signal_transmitter.comps.0.useLabel>Призвать рейд механоидов: Посланник надзора</TY_A_Induced_signal_transmitter.comps.0.useLabel>
+  <TY_A_Induced_signal_transmitter_Blueprint.label>Передатчик Посланника надзора (чертёж)</TY_A_Induced_signal_transmitter_Blueprint.label>
+  <TY_A_Induced_signal_transmitter_Frame.label>Передатчик Посланника надзора (строится)</TY_A_Induced_signal_transmitter_Frame.label>
+  <TY_A_Induced_signal_transmitter_Frame.description>Особый механоид из проекта Церкви Славы. Ранее контролировал обучение туземцев технологиям Аквилы на окраинных мирах. За победу можно получить ядро высокой полосы пропускания. Импульсы выжигают антенну — устройство одноразовое.</TY_A_Induced_signal_transmitter_Frame.description>
+
+
+  <!-- TY_Apocriton -->
+
+  <TY_BandNode.label>Узел высокой полосы пропускания</TY_BandNode.label>
+  <TY_BandNode.description>Высокопроизводительный узел полосы пропускания.</TY_BandNode.description>
+  <TY_BandNode_Blueprint.label>Узел высокой полосы пропускания (чертёж)</TY_BandNode_Blueprint.label>
+  <TY_BandNode_Frame.label>Узел высокой полосы пропускания (строится)</TY_BandNode_Frame.label>
+  <TY_BandNode_Frame.description>Высокопроизводительный узел полосы пропускания.</TY_BandNode_Frame.description>
+
+  <TY_BurnoutMechlinkBooster.label>Передатчик индукции добывающих механоидов</TY_BurnoutMechlinkBooster.label>
+  <TY_BurnoutMechlinkBooster.description>Специальный прибор мехсвязи. При активации излучает импульсы нужной частоты, приманивая добывающий отряд механоидов. Победив его, можно собрать много ресурсов с обломков. Импульсы выжигают антенну — устройство одноразовое.</TY_BurnoutMechlinkBooster.description>
+  <TY_BurnoutMechlinkBooster.comps.0.useLabel>Призвать рейд механоидов: добывающие</TY_BurnoutMechlinkBooster.comps.0.useLabel>
+  <TY_BurnoutMechlinkBooster_Blueprint.label>Передатчик добывающих механоидов (чертёж)</TY_BurnoutMechlinkBooster_Blueprint.label>
+  <TY_BurnoutMechlinkBooster_Frame.label>Передатчик добывающих механоидов (строится)</TY_BurnoutMechlinkBooster_Frame.label>
+  <TY_BurnoutMechlinkBooster_Frame.description>Специальный прибор мехсвязи. При активации излучает импульсы нужной частоты, приманивая добывающий отряд механоидов. Победив его, можно собрать много ресурсов с обломков. Импульсы выжигают антенну — устройство одноразовое.</TY_BurnoutMechlinkBooster_Frame.description>
+
+
+</LanguageData>

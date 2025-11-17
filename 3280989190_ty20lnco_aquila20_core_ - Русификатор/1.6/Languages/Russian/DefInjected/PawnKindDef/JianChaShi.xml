@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mech_N_JianChaShiSurveillance.label>Посланник надзора</Mech_N_JianChaShiSurveillance.label>
+  <Mech_N_JianChaShiSurveillance.labelPlural>Посланники надзора</Mech_N_JianChaShiSurveillance.labelPlural>
+
+  <TY_Armed_mining_machine.label>«Крот»-1</TY_Armed_mining_machine.label>
+  <TY_Armed_mining_machine.labelPlural>Экскаваторы «Крот»-1</TY_Armed_mining_machine.labelPlural>
+  <TY_Armed_mining_machine.lifeStages.0.label>«Крот»-1</TY_Armed_mining_machine.lifeStages.0.label>
+  <TY_Armed_mining_machine.lifeStages.0.labelPlural>Экскаваторы «Крот»-1</TY_Armed_mining_machine.lifeStages.0.labelPlural>
+  <TY_Armed_mining_machine.lifeStages.1.label>«Крот»-1</TY_Armed_mining_machine.lifeStages.1.label>
+  <TY_Armed_mining_machine.lifeStages.1.labelPlural>Экскаваторы «Крот»-1</TY_Armed_mining_machine.lifeStages.1.labelPlural>
+
+  <TY_Mech_CentipedeGunner.label>Транспортная многоножка</TY_Mech_CentipedeGunner.label>
+  <TY_Mech_CentipedeGunner.labelPlural>Транспортные многоножки</TY_Mech_CentipedeGunner.labelPlural>
+  <TY_Mech_CentipedeGunner.lifeStages.0.label>Транспортная многоножка</TY_Mech_CentipedeGunner.lifeStages.0.label>
+  <TY_Mech_CentipedeGunner.lifeStages.0.labelPlural>Транспортные многоножки</TY_Mech_CentipedeGunner.lifeStages.0.labelPlural>
+  <TY_Mech_CentipedeGunner.lifeStages.1.label>Транспортная многоножка</TY_Mech_CentipedeGunner.lifeStages.1.label>
+  <TY_Mech_CentipedeGunner.lifeStages.1.labelPlural>Транспортные многоножки</TY_Mech_CentipedeGunner.lifeStages.1.labelPlural>
+  <TY_Mech_CentipedeGunner.lifeStages.2.label>Транспортная многоножка</TY_Mech_CentipedeGunner.lifeStages.2.label>
+  <TY_Mech_CentipedeGunner.lifeStages.2.labelPlural>Транспортные многоножки</TY_Mech_CentipedeGunner.lifeStages.2.labelPlural>
+  <TY_Mech_CentipedeGunner.lifeStages.3.label>Транспортная многоножка</TY_Mech_CentipedeGunner.lifeStages.3.label>
+  <TY_Mech_CentipedeGunner.lifeStages.3.labelPlural>Транспортные многоножки</TY_Mech_CentipedeGunner.lifeStages.3.labelPlural>
+
+
+</LanguageData>

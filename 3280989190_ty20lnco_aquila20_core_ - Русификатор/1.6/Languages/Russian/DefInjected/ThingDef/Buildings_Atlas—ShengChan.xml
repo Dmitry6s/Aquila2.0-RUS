@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HeChengWork.label>Плавильная установка лёгкой материи</HeChengWork.label>
+  <HeChengWork.description>Плавильный комплекс для материальной базы эпохи Второй атомной революции.</HeChengWork.description>
+  <HeChengWork_Blueprint.label>Плавильная установка лёгкой материи (чертёж)</HeChengWork_Blueprint.label>
+  <HeChengWork_Blueprint_Install.label>Плавильная установка лёгкой материи (чертёж)</HeChengWork_Blueprint_Install.label>
+  <HeChengWork_Frame.label>Плавильная установка лёгкой материи (строится)</HeChengWork_Frame.label>
+  <HeChengWork_Frame.description>Плавильный комплекс для материальной базы эпохи Второй атомной революции.</HeChengWork_Frame.description>
+
+  <QiMiaoWork.label>Автоматизированный механо-производственный комплекс</QiMiaoWork.label>
+  <QiMiaoWork.description>Производство технологий космического уровня с использованием автоматизированных машин.</QiMiaoWork.description>
+  <QiMiaoWork_Blueprint.label>Автоматизированный механо-производственный комплекс (чертёж)</QiMiaoWork_Blueprint.label>
+  <QiMiaoWork_Blueprint_Install.label>Автоматизированный механо-производственный комплекс (чертёж)</QiMiaoWork_Blueprint_Install.label>
+  <QiMiaoWork_Frame.label>Автоматизированный механо-производственный комплекс (строится)</QiMiaoWork_Frame.label>
+  <QiMiaoWork_Frame.description>Производство технологий уровня Spacer с использованием автоматизированных машин.</QiMiaoWork_Frame.description>
+
+  <ShengWuWork.label>Синтезатор атомных протезов</ShengWuWork.label>
+  <ShengWuWork.description>Вторая атомная революция принесла новые чистые источники энергии и породила новые протезные технологии.</ShengWuWork.description>
+  <ShengWuWork_Blueprint.label>Синтезатор атомных протезов (чертёж)</ShengWuWork_Blueprint.label>
+  <ShengWuWork_Blueprint_Install.label>Синтезатор атомных протезов (чертёж)</ShengWuWork_Blueprint_Install.label>
+  <ShengWuWork_Frame.label>Синтезатор атомных протезов (строится)</ShengWuWork_Frame.label>
+  <ShengWuWork_Frame.description>Вторая атомная революция принесла новые чистые источники энергии и породила новые протезные технологии.</ShengWuWork_Frame.description>
+
+  <LSFRJWork.label>Винтажная швейная машина</LSFRJWork.label>
+  <LSFRJWork.description>Воссоздана современными методами: и блестящий маховик, отполированный годами, и ржавый поскрипывающий привод. Старинный вид при плавной работе.</LSFRJWork.description>
+  <LSFRJWork_Blueprint.label>Винтажная швейная машина (чертёж)</LSFRJWork_Blueprint.label>
+  <LSFRJWork_Blueprint_Install.label>Винтажная швейная машина (чертёж)</LSFRJWork_Blueprint_Install.label>
+  <LSFRJWork_Frame.label>Винтажная швейная машина (строится)</LSFRJWork_Frame.label>
+  <LSFRJWork_Frame.description>Воссоздана современными методами: и блестящий маховик, отполированный годами, и ржавый поскрипывающий привод. Старинный вид при плавной работе.</LSFRJWork_Frame.description>
+
+
+</LanguageData>

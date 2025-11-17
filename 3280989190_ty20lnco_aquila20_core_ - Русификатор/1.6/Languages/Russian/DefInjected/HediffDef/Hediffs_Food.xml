@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TYFood_AtHF.label>&lt;color=#FF3300&gt;&lt;b&gt;Вкусная еда&lt;/b&gt;&lt;/color&gt;</TYFood_AtHF.label>
+  <TYFood_AtHF.description>Поел — стал сильнее? Точно не «Охотник за едой Торико (トリコ)».</TYFood_AtHF.description>
+  <TYFood_AtHF.stages.0.label>&lt;color=#FF3300&gt;&lt;b&gt;Эффект вкусной еды&lt;/b&gt;&lt;/color&gt;</TYFood_AtHF.stages.0.label>
+
+  <TYGnyl_AtHF.label>&lt;color=#FFCC66&gt;&lt;b&gt;Функциональный напиток&lt;/b&gt;&lt;/color&gt;</TYGnyl_AtHF.label>
+  <TYGnyl_AtHF.description>Употребление функциональных напитков даёт небольшой и кратковременный прирост псифокуса и концентрации.</TYGnyl_AtHF.description>
+  <TYGnyl_AtHF.stages.0.label>&lt;color=#FFCC66&gt;&lt;b&gt;Эффект напитка&lt;/b&gt;&lt;/color&gt;</TYGnyl_AtHF.stages.0.label>
+
+  <TYTin_AtHF.label>&lt;color=#FFCC66&gt;&lt;b&gt;Съедена консерва&lt;/b&gt;&lt;/color&gt;</TYTin_AtHF.label>
+  <TYTin_AtHF.description>Иммунитет +++</TYTin_AtHF.description>
+  <TYTin_AtHF.stages.0.label>&lt;color=#FFCC66&gt;&lt;b&gt;Эффект лечебного рациона&lt;/b&gt;&lt;/color&gt;</TYTin_AtHF.stages.0.label>
+
+  <TYNlb_AtHF.label>&lt;color=#FFCC66&gt;&lt;b&gt;Съеден батончик энергии&lt;/b&gt;&lt;/color&gt;</TYNlb_AtHF.label>
+  <TYNlb_AtHF.description>Слишком сладко…</TYNlb_AtHF.description>
+  <TYNlb_AtHF.stages.0.label>&lt;color=#FFCC66&gt;&lt;b&gt;Эффект сытости&lt;/b&gt;&lt;/color&gt;</TYNlb_AtHF.stages.0.label>
+
+
+</LanguageData>

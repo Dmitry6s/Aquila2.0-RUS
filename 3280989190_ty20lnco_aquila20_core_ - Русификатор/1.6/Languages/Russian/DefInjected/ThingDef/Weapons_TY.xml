@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TY_N_RocketS_Weapon.label>Четырёхствольный РПГ</TY_N_RocketS_Weapon.label>
+  <TY_N_RocketS_Weapon.description>Четырёхствольный гранатомёт — говорят, им пользуются лишь безумцы. Встроенная система расчёта траектории помогает прицеливаться. После выстрела самоуничтожается.</TY_N_RocketS_Weapon.description>
+
+  <TY_N_RocketS_Bullet.label>Ракета</TY_N_RocketS_Bullet.label>
+  <IceBall_Atlas.label>Ледяной шар</IceBall_Atlas.label>
+
+
+  <!-- 现代武器↓ -->
+
+  <TY_N_BaiLingX_Bullet.label>12‑калиберная свинцовая дробь</TY_N_BaiLingX_Bullet.label>
+
+  <TY_N_BaiLingX_Weapon.label>Winchester‑44, модифицированный дробовик</TY_N_BaiLingX_Weapon.label>
+  <TY_N_BaiLingX_Weapon.description>Дополнительное упрощение конструкции снизило вес, пожертвовав точностью и увеличив разлёт дроби для большей летальности.\nИзвестно лишь, что это модификация Winchester; «44» может указывать на год доработки — 55(?)44 или 35(?)44, история затерялась.</TY_N_BaiLingX_Weapon.description>
+  <TY_N_BaiLingX_Weapon.tools.0.label>Приклад</TY_N_BaiLingX_Weapon.tools.0.label>
+
+  <TY_N_BaiLingZ_Bullet.label>5,45‑мм промежуточный патрон</TY_N_BaiLingZ_Bullet.label>
+
+  <TY_N_BaiLingZ_Weapon.label>Ahka‑1999, автоматическая винтовка</TY_N_BaiLingZ_Weapon.label>
+  <TY_N_BaiLingZ_Weapon.description>Серия Ahka — один из старейших образцов оружия человечества; активно применялась в войнах туземцев окраин и в межзвёздных конфликтах. Создатель и точный год для Ahka‑1999 не задокументированы, но это не мешает популярности у пиратов и караванов.</TY_N_BaiLingZ_Weapon.description>
+  <TY_N_BaiLingZ_Weapon.tools.0.label>Приклад</TY_N_BaiLingZ_Weapon.tools.0.label>
+
+  <TY_N_BaiLingJ_Bullet.label>7,62‑мм винтовочный патрон</TY_N_BaiLingJ_Bullet.label>
+
+  <TY_N_BaiLingJ_Weapon.label>Remington M1700</TY_N_BaiLingJ_Weapon.label>
+  <TY_N_BaiLingJ_Weapon.description>Древнее оружие индустриальной эпохи, до сих пор встречается в межзвёздных и туземных конфликтах окраин. Известно отличной дальностью и точностью.</TY_N_BaiLingJ_Weapon.description>
+  <TY_N_BaiLingJ_Weapon.tools.0.label>Приклад</TY_N_BaiLingJ_Weapon.tools.0.label>
+
+  <TY_N_CiHeZ_Bullet.label>6,5‑мм магнитозарядный патрон</TY_N_CiHeZ_Bullet.label>
+
+  <TY_N_CiHeZ_Weapon.label>Магнитозарядная автоматическая винтовка</TY_N_CiHeZ_Weapon.label>
+  <TY_N_CiHeZ_Weapon.description>Автоматическая винтовка на электромагнитном разгоне. Рельсы и сопутствующая электроника заряжают пулю нестабильной энергией при вылете; при попадании заряд полностью высвобождается, резко повышая урон.</TY_N_CiHeZ_Weapon.description>
+  <TY_N_CiHeZ_Weapon.tools.0.label>Приклад</TY_N_CiHeZ_Weapon.tools.0.label>
+
+  <TY_N_CiHeJ_Bullet.label>9,5‑мм магнитозарядный патрон</TY_N_CiHeJ_Bullet.label>
+
+  <TY_N_CiHeJ_Weapon.label>Магнитозарядная снайперская винтовка</TY_N_CiHeJ_Weapon.label>
+  <TY_N_CiHeJ_Weapon.description>Снайперская винтовка на электромагнитном разгоне. Рельсы и электроника заряжают пулю нестабильной энергией при вылете; при попадании заряд полностью высвобождается, значительно усиливая урон.</TY_N_CiHeJ_Weapon.description>
+  <TY_N_CiHeJ_Weapon.tools.0.label>Приклад</TY_N_CiHeJ_Weapon.tools.0.label>
+
+  <TY_N_CiHeX_Bullet.label>3,24‑мм магнитозарядный патрон</TY_N_CiHeX_Bullet.label>
+
+  <TY_N_CiHeX_Weapon.label>Магнитозарядный дробовик</TY_N_CiHeX_Weapon.label>
+  <TY_N_CiHeX_Weapon.description>Дробовик на электромагнитном разгоне. Рельсы и электроника заряжают каждую дробину нестабильной энергией при вылете; при попадании заряд полностью высвобождается, заметно повышая урон. (12 дробин/выстрел)</TY_N_CiHeX_Weapon.description>
+  <TY_N_CiHeX_Weapon.tools.0.label>Приклад</TY_N_CiHeX_Weapon.tools.0.label>
+
+  <TY_N_FireGun_Bullet.label>Зажигательная пуля</TY_N_FireGun_Bullet.label>
+
+  <TY_N_FireGun_Weapon.label>Пулемёт «Лава»</TY_N_FireGun_Weapon.label>
+  <TY_N_FireGun_Weapon.description>Кованое когда‑то на Лавовой звезде оружие снято с вооружения из‑за недостаточной летальности. Однако высокая скорострельность и мощное поджигание делают его идеальным для диверсий — и для «переговоров» с племенами.</TY_N_FireGun_Weapon.description>
+  <TY_N_FireGun_Weapon.tools.0.label>Приклад</TY_N_FireGun_Weapon.tools.0.label>
+
+
+</LanguageData>

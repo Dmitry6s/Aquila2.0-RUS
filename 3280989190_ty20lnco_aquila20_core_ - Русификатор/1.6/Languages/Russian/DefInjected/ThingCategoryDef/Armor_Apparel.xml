@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ——————1.5后，外套层服装要加这个鸡巴,不然头发被衣服盖住————————
+
+<apparel>
+
+      <renderSkipFlags>
+        <li>None</li>
+      </renderSkipFlags>
+            <drawData>
+        <dataNorth>
+          <layer>51</layer>
+        </dataNorth>
+      </drawData>
+
+</apparel> -->
+
+  <TY_Apparel.label>Одежда Аквилы</TY_Apparel.label>
+
+
+</LanguageData>

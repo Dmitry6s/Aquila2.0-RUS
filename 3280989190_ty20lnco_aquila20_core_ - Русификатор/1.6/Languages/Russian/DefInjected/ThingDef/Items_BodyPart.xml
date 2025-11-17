@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 植入体BASE -->
+
+  <EtherCore.label>Атомный реактор TI2</EtherCore.label>
+  <EtherCore.description>Энергетическое ядро Розарии Перекованных и некоторых особых Перекованных.</EtherCore.description>
+
+  <BalunsiHeart.label>Странное сердце</BalunsiHeart.label>
+  <BalunsiHeart.description>Редчайший дроп с механоидов. Похоже, пользы мало — разве что продать за серебро.</BalunsiHeart.description>
+
+  <ShingLanArm.label>Атомная бионическая рука</ShingLanArm.label>
+  <ShingLanArm.description>Бионическая рука.</ShingLanArm.description>
+
+  <ShingLanLeg.label>Атомная бионическая нога</ShingLanLeg.label>
+  <ShingLanLeg.description>Бионическая нога.</ShingLanLeg.description>
+
+  <ShingLanEye.label>Атомный бионический глаз</ShingLanEye.label>
+  <ShingLanEye.description>Бионический глаз.</ShingLanEye.description>
+
+  <ShingLanEar.label>Атомное бионическое ухо</ShingLanEar.label>
+  <ShingLanEar.description>Бионическое ухо.</ShingLanEar.description>
+
+  <ShingLanSpine.label>Атомный бионический позвоночник</ShingLanSpine.label>
+  <ShingLanSpine.description>Бионический позвоночник.</ShingLanSpine.description>
+
+  <ShingLanStomach.label>Атомный бионический желудок</ShingLanStomach.label>
+  <ShingLanStomach.description>Бионический желудок.</ShingLanStomach.description>
+
+  <ShingLanLung.label>Атомное бионическое лёгкое</ShingLanLung.label>
+  <ShingLanLung.description>Бионическое лёгкое.</ShingLanLung.description>
+
+  <ShingLanKidney.label>Атомная бионическая почка</ShingLanKidney.label>
+  <ShingLanKidney.description>Бионическая почка.</ShingLanKidney.description>
+
+  <ShingLanLiver.label>Атомная бионическая печень</ShingLanLiver.label>
+  <ShingLanLiver.description>Бионическая печень.</ShingLanLiver.description>
+
+
+</LanguageData>

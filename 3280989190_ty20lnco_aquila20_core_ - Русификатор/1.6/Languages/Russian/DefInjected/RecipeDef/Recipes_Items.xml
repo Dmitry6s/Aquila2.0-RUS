@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_EtherM.label>Изготовить кристаллическую ленту</Make_EtherM.label>
+  <Make_EtherM.description>Изготовить кристаллическую ленту</Make_EtherM.description>
+  <Make_EtherM.jobString>Изготовление кристаллической ленты</Make_EtherM.jobString>
+
+  <Make_titanium_alloy.label>Синтезировать титановые сплавы ×100</Make_titanium_alloy.label>
+  <Make_titanium_alloy.description>Синтез титановых сплавов менее эффективным методом</Make_titanium_alloy.description>
+  <Make_titanium_alloy.jobString>Синтез титановый сплавов</Make_titanium_alloy.jobString>
+
+  <Make_TIalloy.label>Плавить сплавы TI2 ×35</Make_TIalloy.label>
+  <Make_TIalloy.description>Плавка сплавов TI2 — улучшенной версии титановый сплавов.</Make_TIalloy.description>
+  <Make_TIalloy.jobString>Плавка сплавов TI2</Make_TIalloy.jobString>
+
+
+  <!-- <RecipeDef>
+    <defName>Make_YY</defName>
+    <label>制造阳炎石</label>
+    <description>燃料居然能加工成石头!!??</description>
+    <jobString>合成中</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>1861</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>30</count>
+      </li>
+    </ingredients>
+    <products>
+      <YangYan>2</YangYan>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YTXS_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_EtherH</defName>
+    <label>合成火以太</label>
+    <description>合成火以太</description>
+    <jobString>合成中</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>3621</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>YangYan</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EtherM</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <EtherHuo>1</EtherHuo>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YMZ_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>Make_BiCui</defName>
+    <label>浓缩碧翠华</label>
+    <description>浓缩碧翠华</description>
+    <jobString>浓缩碧翠华</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>1551</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <products>
+      <BiCui>1</BiCui>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YTXS_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_EtherC</defName>
+    <label>合成木以太</label>
+    <description>合成木以太</description>
+    <jobString>合成木以太</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>4312</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BiCui</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EtherM</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <EtherMu>1</EtherMu>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YMZ_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_EtherS</defName>
+    <label>培育水以太</label>
+    <description>培育水以太</description>
+    <jobString>培育水以太</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>9000</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EtherM</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <EtherShui>1</EtherShui>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YMZ_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="MakeStoneBlocksBase">
+    <defName>Make_TuLin</defName>
+    <label>浓缩土灵根</label>
+    <description>浓缩土灵根</description>
+    <workerCounterClass>RecipeWorkerCounter_MakeStoneBlocks</workerCounterClass>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <workAmount>2031</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <TuLing>1</TuLing>
+    </products>
+    <skillRequirements>
+      <Crafting>8</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers Inherit="False">
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YTXS_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>Make_EtherT</defName>
+    <label>合成土以太</label>
+    <description>合成土以太</description>
+    <jobString>合成土以太</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>1912</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>TuLing</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EtherM</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <EtherTu>1</EtherTu>
+    </products>
+    <skillRequirements>
+      <Crafting>9</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>HeChengWork</li>
+      </recipeUsers>
+      <researchPrerequisite>YMZ_AtRe</researchPrerequisite>
+  </RecipeDef>
+
+  <RecipeDef ParentName="CookMealBase">
+    <defName>Make_SingLan</defName>
+    <label>培养星岚</label>
+    <description>培养星岚</description>
+    <jobString>培养星岚</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <workAmount>3000</workAmount>
+    <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <products>
+      <ShingLan>5</ShingLan>
+    </products>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>ShengWuWork</li>
+      </recipeUsers>
+      <researchPrerequisite>SMSM_AtRe</researchPrerequisite>
+  </RecipeDef> -->
+
+  <Make_ZXA.label>Синтезировать нейтроамин</Make_ZXA.label>
+  <Make_ZXA.description>Синтез нейтроамина</Make_ZXA.description>
+  <Make_ZXA.jobString>Синтез</Make_ZXA.jobString>
+
+
+</LanguageData>

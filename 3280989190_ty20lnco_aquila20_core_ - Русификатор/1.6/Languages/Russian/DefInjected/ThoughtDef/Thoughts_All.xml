@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AXBD_AtThought.stages.0.label>Съел изысканную бэнто</AXBD_AtThought.stages.0.label>
+  <AXBD_AtThought.stages.0.description>Такое блюдо достойно рая. Сколько раз можно отведать его на земле?</AXBD_AtThought.stages.0.description>
+
+  <Snack_ThoughtTY.stages.0.label>Сытный перекус</Snack_ThoughtTY.stages.0.label>
+  <Snack_ThoughtTY.stages.0.description>Отличная на вкус закуска.</Snack_ThoughtTY.stages.0.description>
+
+  <JZGT_AtThought.stages.0.label>Съел деликатесную консерву</JZGT_AtThought.stages.0.label>
+  <JZGT_AtThought.stages.0.description>Отличная консерва, очень вкусно.</JZGT_AtThought.stages.0.description>
+
+  <Jbdl_AtThought.stages.0.label>Выпил функциональный напиток</Jbdl_AtThought.stages.0.label>
+  <Jbdl_AtThought.stages.0.description>Необъяснимый подъём. В этом напитке явно что-то есть…</Jbdl_AtThought.stages.0.description>
+
+  <Yysj_AtThought.stages.0.label>Съел жареную курицу</Yysj_AtThought.stages.0.label>
+  <Yysj_AtThought.stages.0.description>Сочное мясо, хрустящая корочка, насыщенный вкус — великолепно!</Yysj_AtThought.stages.0.description>
+
+  <Mgjb_AtThought.stages.0.label>Съел буррито</Mgjb_AtThought.stages.0.label>
+  <Mgjb_AtThought.stages.0.description>Вкусное буррито.</Mgjb_AtThought.stages.0.description>
+
+  <Lbmb_AtThought.stages.0.label>Съел гамбургер</Lbmb_AtThought.stages.0.label>
+  <Lbmb_AtThought.stages.0.description>Есть бургер на окраинном мире — сразу как-то спокойнее.</Lbmb_AtThought.stages.0.description>
+
+  <QAMZZ_AtThought.stages.0.label>Высокомерие</QAMZZ_AtThought.stages.0.label>
+  <QAMZZ_AtThought.stages.0.description>Эмоциональный эффект «Высокомерия».</QAMZZ_AtThought.stages.0.description>
+
+  <QBNZZ_AtThought.stages.0.label>Раздражительность</QBNZZ_AtThought.stages.0.label>
+  <QBNZZ_AtThought.stages.0.description>Эмоциональный эффект «Раздражительности».</QBNZZ_AtThought.stages.0.description>
+
+
+</LanguageData>

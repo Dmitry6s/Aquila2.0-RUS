@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Magic_AtCYHigh.label>&lt;color=#E93EFF&gt;&lt;b&gt;Стимуляция «Первиан: раскалывание»&lt;/b&gt;&lt;/color&gt;</Magic_AtCYHigh.label>
+  <Magic_AtCYHigh.description>Боевые зелья «Первиан: раскалывание» использовались солдатами в Сумеречных войнах между межзвёздными империями. Они относительно недороги и заметно повышают боевую эффективность. Сейчас широко применяются Церковью Славы в новых Сумеречных войнах для стремительных прорывов.</Magic_AtCYHigh.description>
+  <Magic_AtCYHigh.labelNoun>стимуляция «Первиан: раскалывание»</Magic_AtCYHigh.labelNoun>
+
+  <Magic_AtCYAddiction.label>&lt;color=#E93EFF&gt;&lt;b&gt;Зависимость от «Первиан»&lt;/b&gt;&lt;/color&gt;</Magic_AtCYAddiction.label>
+  <Magic_AtCYAddiction.description>Жадность — это бездонная яма: человек изнуряет себя бесконечными попытками утолить потребность, так и не достигая удовлетворения.\n— Эрих Фромм, «Бегство от свободы», 2013, Open Road Media</Magic_AtCYAddiction.description>
+  <Magic_AtCYAddiction.stages.1.label>ломка</Magic_AtCYAddiction.stages.1.label>
+
+
+</LanguageData>
