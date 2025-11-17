@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个建筑类物品：乘客穿梭机 -->
+
+  <TY_A_PassengerShuttle.label>Крупный грузовой шаттл Федерации</TY_A_PassengerShuttle.label>
+  <TY_A_PassengerShuttle.description>Летающий крупный грузовой шаттл Федерации.</TY_A_PassengerShuttle.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 定义一个建筑类物品：乘客穿梭机 -->
+
+  <TY_A_PassengerShuttle.label>Большой грузовой шаттл Федерации</TY_A_PassengerShuttle.label>
+  <TY_A_PassengerShuttle.description>Большой грузовой шаттл Федерации, благодаря своим размерам, имеет подавляющее преимущество в перевозке грузов.</TY_A_PassengerShuttle.description>
+  <TY_A_PassengerShuttle_Blueprint.label>Большой грузовой шаттл Федерации (чертёж)</TY_A_PassengerShuttle_Blueprint.label>
+  <TY_A_PassengerShuttle_Frame.label>Большой грузовой шаттл Федерации (строительство)</TY_A_PassengerShuttle_Frame.label>
+  <TY_A_PassengerShuttle_Frame.description>Большой грузовой шаттл Федерации, благодаря своим размерам, имеет подавляющее преимущество в перевозке грузов.</TY_A_PassengerShuttle_Frame.description>
+
+  <TY_A_PassengerShuttleLeaving.label>Большой грузовой шаттл (отбытие)</TY_A_PassengerShuttleLeaving.label>
+  <TY_A_PassengerShuttleIncoming.label>Большой грузовой шаттл (прибытие)</TY_A_PassengerShuttleIncoming.label>
+
+
+</LanguageData>

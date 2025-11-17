@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YYS_YTCDMechlink.label>Мехлинк Перекованных</YYS_YTCDMechlink.label>
+  <YYS_YTCDMechlink.description>Изначально Розария Перекованная служила ручными базовыми станциями для сети OGAS, но позже было обнаружено, что они неожиданно хорошо подходят для установки дешёвых гештальт-мехлинков.\nСпециализированные мехлинки Розарии Перекованной для управления механоидными подразделениями, хотя большинство промышленных зон Новой Федерации Речной Долины теперь напрямую используют систему OGAS, контрольные узлы Розарии остаются полезными только в пограничных пионерских и военных операциях.</YYS_YTCDMechlink.description>
+  <YYS_YTCDMechlink.comps.1.useLabel>Использовать (должен быть Перекованным)</YYS_YTCDMechlink.comps.1.useLabel>
+
+
+  <!-- 带了这个损坏核心的JB的pawn在光辉里 -->
+
+  <YYS_YTCDMechlinkImplantThing.label>Черепной штифт мехлинка Перекованных</YYS_YTCDMechlinkImplantThing.label>
+  <YYS_YTCDMechlinkImplantThing.description>Обычно только Церковь Славы может изготавливать специальные черепные штифты, которые используются для того, чтобы пленники Розарии Перекованной теряли контроль над своими механоидами.</YYS_YTCDMechlinkImplantThing.description>
+
+
+</LanguageData>
